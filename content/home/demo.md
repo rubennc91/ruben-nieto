@@ -50,7 +50,17 @@ subtitle = ""
  css_class = ""
 +++
 
-## 👋 Welcome to the Academic Template
+## 👋 Welcome to Rubén Nieto's website
+
+On this website you can find information about me, my skills, hobbies and interests. 
+
+In case that you are more interested about the things that I have been doing in the recent years, here it is possible to check my experience and achievements. Also, you can find short posts about my latest projects.
+
+Here you may also know about the projects that I have been involved in, the most recent talks and the ones that are still to be done. And finally, you also can check all my publications in conferences and journals.
+
+In case that there is something about me that you liked it or that you want to know more about some topic listed here, please feel free to contact me. I hope to answer you as soon as possible. 
+
+Thank you!
 
 The Wowchemy **Academic Resumé Template** for Hugo empowers you to create your job-winning online resumé and showcase your academic publications.
 
@@ -58,7 +68,7 @@ The Wowchemy **Academic Resumé Template** for Hugo empowers you to create your 
 
 [**Wowchemy**](https://wowchemy.com) makes it easy to create a beautiful website for free. Edit your site in Markdown, Jupyter, or RStudio (via Blogdown), generate it with Hugo, and deploy with GitHub or Netlify. Customize anything on your site with widgets, themes, and language packs.
 
-- 👉 [**Get Started**](https://wowchemy.com/docs/install/)
+- :bowtie: [**About me**](https://ruben-nieto.netlify.app/#about)
 - 📚 [View the **documentation**](https://wowchemy.com/docs/)
 - 💬 [Chat with the **Wowchemy community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
 - 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=(%23MadeWithWowchemy%20OR%20%23MadeWithAcademic)&src=typed_query)

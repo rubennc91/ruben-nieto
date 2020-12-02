@@ -69,10 +69,10 @@ subtitle = ""
   description = "200 %"
   
 [[feature]]
-  icon = "raspberry-pi"
-  icon_pack = "fab"
-  name = "Raspberry pi fan"
-  description = "99 %"
+  icon = "tools"
+  icon_pack = "fas"
+  name = "Maker (when it is possible)"
+  description = "100 %"
 
 [[feature]]
   icon = "raspberry-pi"
@@ -81,10 +81,10 @@ subtitle = ""
   description = "99 %"
   
 [[feature]]
-  icon = "raspberry-pi"
-  icon_pack = "fab"
-  name = "Raspberry pi fan"
-  description = "99 %"
+  icon = "utensils"
+  icon_pack = "fas"
+  name = "Beginner cook"
+  description = "15 %"
 
   
 # Uncomment to use emoji icons.

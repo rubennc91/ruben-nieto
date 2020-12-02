@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = ":blush: Welcome :blush:"
+title = "Hey, that's me! :scream_cat:"
 subtitle = ""
 
 [design]
@@ -62,7 +62,7 @@ In case that there is something about me that you liked it or that you want to k
 
 Thank you!
 
-- :bowtie: [**About me**](https://ruben-nieto.netlify.app/#about)
+- :v: [**About me**](https://ruben-nieto.netlify.app/#about)
 - :scroll: [**Recent Posts**](https://ruben-nieto.netlify.app/#posts)
 - :rocket: [**Projects**](https://ruben-nieto.netlify.app/#projects)
 - :books: [**Publications**](https://ruben-nieto.netlify.app/#featured)

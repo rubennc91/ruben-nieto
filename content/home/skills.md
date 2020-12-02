@@ -15,10 +15,22 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
+  icon = "microchip"
+  icon_pack = "fas"
+  name = "SoC, FPGA and Embedded systems"
+  description = "80%" 
+  
+[[feature]]
   icon = "calculator"
   icon_pack = "fas"
   name = "Matlab"
   description = "90%"
+    
+[[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
+  description = "70%"
     
 [[feature]]
   icon = "git"
@@ -27,22 +39,10 @@ subtitle = ""
   description = "85%" 
   
 [[feature]]
-  icon = "microchip"
+  icon = "brain"
   icon_pack = "fas"
-  name = "SoC, FPGA and Embedded systems"
-  description = "80%" 
-  
-[[feature]]
-  icon = "python"
-  icon_pack = "fab"
-  name = "Python"
-  description = "70%"
-  
-[[feature]]
-  icon = "git"
-  icon_pack = "fab"
-  name = "Git, GitHub and GitLab"
-  description = "85%" 
+  name = "Deep Learning"
+  description = "45%" 
   
 [[feature]]
   icon = "chalkboard-teacher"

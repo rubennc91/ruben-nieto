@@ -25,8 +25,8 @@ subtitle = ""
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "DarkGreen"
-  gradient_end = "ForestGreen"
+  gradient_start = "DarkBlue"
+  gradient_end = "RoyalBlue"
   
   # Background image.
   # image = "image.jpg"  # Name of image in `static/media/`.
@@ -62,10 +62,10 @@ In case that there is something about me that you liked it or that you want to k
 
 Thank you!
 
-- :v: [**About me**]('/#about')
-- :scroll: [**Recent Posts**]('/#posts')
-- :rocket: [**Projects**]('/#projects')
-- :books: [**Publications**]('/#featured')
+- :v: [**About me**](/#about)
+- :scroll: [**Recent Posts**](/#posts)
+- :rocket: [**Projects**](/#projects)
+- :books: [**Publications**](/#featured)
 - :bird: [**@rubennc91**](https://twitter.com/rubennc91)
-- :postal_horn: [**Contact**]('/#contact')
+- :postal_horn: [**Contact**](/#contact)
 

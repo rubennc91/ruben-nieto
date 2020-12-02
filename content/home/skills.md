@@ -15,23 +15,47 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
+  icon = "calculator"
+  icon_pack = "fas"
+  name = "Matlab"
   description = "90%"
+    
+[[feature]]
+  icon = "git"
+  icon_pack = "fab"
+  name = "Git, GitHub and GitLab"
+  description = "85%" 
   
 [[feature]]
-  icon = "chart-line"
+  icon = "microchip"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "SoC, FPGA and Embedded systems"
+  description = "80%" 
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
+  description = "70%"
+  
+[[feature]]
+  icon = "git"
+  icon_pack = "fab"
+  name = "Git, GitHub and GitLab"
+  description = "85%" 
+  
+[[feature]]
+  icon = "chalkboard-teacher"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
-
+  name = "Teaching"
+  description = "5%" 
+  
+[[feature]]
+  icon = "raspberry-pi"
+  icon_pack = "fab"
+  name = "Raspberry pi fan"
+  description = "100%"
+  
 # Uncomment to use emoji icons.
 # [[feature]]
 #  icon = ":smile:"

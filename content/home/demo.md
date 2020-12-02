@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Academic Template"
+title = ":blush: Welcome :blush:"
 subtitle = ""
 
 [design]
@@ -50,7 +50,7 @@ subtitle = ""
  css_class = ""
 +++
 
-## :wave: Welcome to Rubén Nieto's website
+## :wave: Welcome to Rubén Nieto's website :blush:
 
 On this website you can find information about me, my skills, hobbies and interests. 
 

@@ -26,7 +26,7 @@ interests:
 
 education:
   courses:
-  - course: PhD in Electronics: Advanced Electronic Systems. Intelligent Systems
+  - course: PhD in Electronics. Advanced Electronic Systems. Intelligent Systems
     institution: University of Alcala
     year: 2020
   - course: MEng in Telecommunication Engineering

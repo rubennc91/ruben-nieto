@@ -62,10 +62,10 @@ In case that there is something about me that you liked it or that you want to k
 
 Thank you!
 
-- :v: [**About me**](https://ruben-nieto.netlify.app/#about)
-- :scroll: [**Recent Posts**](https://ruben-nieto.netlify.app/#posts)
-- :rocket: [**Projects**](https://ruben-nieto.netlify.app/#projects)
-- :books: [**Publications**](https://ruben-nieto.netlify.app/#featured)
+- :v: [**About me**]('/#about')
+- :scroll: [**Recent Posts**]('/#posts')
+- :rocket: [**Projects**]('/#projects')
+- :books: [**Publications**]('/#featured')
 - :bird: [**@rubennc91**](https://twitter.com/rubennc91)
-- :postal_horn: [**Contact**](https://ruben-nieto.netlify.app/#contact)
+- :postal_horn: [**Contact**]('/#contact')
 

@@ -50,7 +50,7 @@ subtitle = ""
  css_class = ""
 +++
 
-## :wave: Welcome to Rubén Nieto's website :blush:
+## :wave: Welcome to my website :blush:
 
 On this website you can find information about me, my skills, hobbies and interests. 
 

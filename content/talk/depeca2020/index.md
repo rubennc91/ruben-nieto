@@ -1,6 +1,5 @@
 ---
-​---
-title: Example Talk
+title: Ciclo de Conferencias y Seminarios del Programa de Posgrado 2020-2021
 event: Ciclo de Conferencias y Seminarios del Programa de Posgrado 2020-2021
 event_url: https://example.org
 

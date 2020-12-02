@@ -43,7 +43,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/mailto:ruben.nieto@uah.es'  # For a direct email link, use "mailto:ruben.nieto@uah.es".
+  link: 'mailto:ruben.nieto@uah.es'  # For a direct email link, use "mailto:ruben.nieto@uah.es".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/rubennc91

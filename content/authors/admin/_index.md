@@ -20,6 +20,8 @@ interests:
 - System-on-Chip
 - Signal Processing
 - Embedded Systems
+- Robotics
+- Sensor Networks
 - Multi-core Processor
 - Power-Line Communications
 - Non-Intrusive Load Monitoring

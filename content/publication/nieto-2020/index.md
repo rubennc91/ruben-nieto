@@ -36,4 +36,12 @@ publication_types:
 abstract: ''
 publication: '*IEEE Access*'
 doi: 10.1109/access.2020.3031476
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  focal_point: ""
+  preview_only: false
 ---
+

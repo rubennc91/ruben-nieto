@@ -1,4 +1,3 @@
----
 title: Diseño de arquitecturas heterogéneas para comunicaciones de banda ancha a través de la red eléctrica (PLC)
 event: Ciclo de Conferencias y Seminarios del Programa de Posgrado 2020-2021
 event_url: https://example.org
@@ -60,4 +59,3 @@ projects:
 
 # Enable math on this page?
 math: true
-​---

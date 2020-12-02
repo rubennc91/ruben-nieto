@@ -34,6 +34,6 @@ date_format = "Jan 2006"
   location = "Alcala de Henares (Madrid) - Spain"
   date_start = "2017-02-15"
   date_end = "2020-01-14"
-  description = """Completing the PhD in Electronics: Advanced Electronic Systems. Intelligent Systems. Thesis entitled: "Design of Efficient Heterogeneous Architectures for Broadband Power-Line Communications". Thesis grade: Cum-Laude."""
+  description = """PhD in Electronics: Advanced Electronic Systems. Intelligent Systems. Thesis entitled: "Design of Efficient Heterogeneous Architectures for Broadband Power-Line Communications". Thesis grade: Cum-Laude."""
 
 +++

@@ -67,10 +67,10 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-#  user_groups:
-#  - Researchers
-#  - Visitors
-#  ---
+user_groups:
+- Researchers
+- Visitors
+---
 
 Rubén Nieto is a Postdoctoral Researcher in the Department of Electronics at the Unversidad de Alcalá. His research interests include robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, self-organising robot systems and mobile sensor networks.
 

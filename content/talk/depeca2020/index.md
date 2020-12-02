@@ -1,14 +1,15 @@
-title: Diseño de arquitecturas heterogéneas para comunicaciones de banda ancha a través de la red eléctrica (PLC)
-event: Ciclo de Conferencias y Seminarios del Programa de Posgrado 2020-2021
+---
+title: Example Talk
+event: Academic Theme Conference
 event_url: https://example.org
 
-location: Electronics Department of the University of Alcala
+location: Source Themes HQ
 address:
-  street: Edificio Politécnico. Campus Universitario. Carretera Madrid-Barcelona, Km. 33,600 
-  city: Alcala de Henares
-  region: C. Madrid
-  postcode: '28804'
-  country: Spain
+  street: 450 Serra Mall
+  city: Stanford
+  region: CA
+  postcode: '94305'
+  country: United States
 
 summary: An example talk using Academic's Markdown slides feature.
 abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
@@ -36,7 +37,7 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/rubennc91
+  url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -59,3 +60,16 @@ projects:
 
 # Enable math on this page?
 math: true
+---
+
+{{% alert note %}}
+Click on the **Slides** button above to view the built-in slides feature.
+{{% /alert %}}
+
+Slides can be added in a few ways:
+
+- **Create** slides using Academic's [*Slides*](https://sourcethemes.com/academic/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
+Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.

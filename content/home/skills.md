@@ -52,21 +52,33 @@ subtitle = ""
   
 [[feature]]
   icon = "robot"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "Robotics and sensors"
   description = "70 %"
   
 [[feature]]
   icon = "plug"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "Power-Line Communications and NILM"
   description = "80 %"
  
 [[feature]]
-  icon = "raspberry-pi"
-  icon_pack = "fab"
+  icon = "cubes"
+  icon_pack = "fas"
   name = "3D-printer lover"
   description = "200 %"
+  
+[[feature]]
+  icon = "raspberry-pi"
+  icon_pack = "fab"
+  name = "Raspberry pi fan"
+  description = "99 %"
+
+[[feature]]
+  icon = "raspberry-pi"
+  icon_pack = "fab"
+  name = "Raspberry pi fan"
+  description = "99 %"
   
 [[feature]]
   icon = "raspberry-pi"

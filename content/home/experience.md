@@ -23,8 +23,9 @@ date_format = "Jan 2006"
   company_url = "www.uah.es"
   location = "Alcala de Henares (Madrid) - Spain"
   date_start = "2020-05-01"
-  date_end = "2021-04-30"
+  date_end = "" 
   description = """SoC implementation for NILM techniques."""
+# date_end = "2021-04-30"
 
 [[experience]]
   title = "Research staff"

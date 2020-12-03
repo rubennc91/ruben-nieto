@@ -41,7 +41,8 @@ doi: 10.1109/access.2020.3031476
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
   caption: '**Graphical Abstract**'
-  focal_point: ""
+  focal_point: "Center"
   preview_only: false
+  alt_text: A graphical abstract for Performance Improvement of PLC Channel Estimator and ASCET Equalizer in a FBMC Transmultiplexer based on a Multi-Core Solution.
 ---
 

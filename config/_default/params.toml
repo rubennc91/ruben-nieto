@@ -116,7 +116,7 @@ appointment_url = "https://calendly.com/ruben3101/30min"
 contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/rubennc91"},
   {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:ruben3101?call"},
-  {icon = "linkedin", icon_pack = "fab", name = "Skype Me", link = "https://www.linkedin.com/in/rubennietoc/"},
+  {icon = "linkedin", icon_pack = "fab", name = "Connect Me", link = "https://www.linkedin.com/in/rubennietoc/"},
   # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},

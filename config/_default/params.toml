@@ -98,7 +98,7 @@ address = {street = "Campus Universitario, Ctra. Madrid-Barcelona km, 33,600", c
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "40.5131", longitude = "-3.3496"}
+coordinates = {latitude = "40.51292136298741", longitude = "-3.3503736267991706"}, 
 
 # Directions for visitors to locate you.
 directions = "Research Laboratory LO22. West, Floor 2, Corridor 2."

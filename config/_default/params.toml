@@ -95,11 +95,11 @@ phone = ""
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
 # Escuela Universitaria Politécnica, Calle 31, Ciudad del Aire, Virgen del Val, Distrito IV, Alcalá de Henares, Área metropolitana de Madrid y Corredor del Henares, Community of Madrid, 28805, Community of Madrid
-address = {street = "Escuela Universitaria Politécnica, Calle 31, Ciudad del Aire, Virgen del Val, Distrito IV", city = "Alcalá de Henares", region = "Community of Madrid", postcode = "28805", country = "Spain", country_code = "ES"}
+address = {street = "Escuela Universitaria Politécnica - UAH", city = "Alcalá de Henares", region = "Community of Madrid", postcode = "28805", country = "Spain", country_code = "ES"}
 
 # Geographic coordinates
-# To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "40.51292136298741", longitude = "-3.3503736267991706"}
+# To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom. https://www.openstreetmap.org/#map=5/40.51312/-3.34963
+coordinates = {latitude = "40.51312", longitude = "-3.34963"}
 
 # Directions for visitors to locate you.
 directions = "Research Laboratory LO22. West, Floor 2, Corridor 2."
@@ -116,6 +116,7 @@ appointment_url = "https://calendly.com/ruben3101/30min"
 contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/rubennc91"},
   {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:ruben3101?call"},
+  {icon = "linkedin", icon_pack = "fab", name = "Skype Me", link = "https://www.linkedin.com/in/rubennietoc/"},
   # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
@@ -265,8 +266,8 @@ plugins_js  = []
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
   engine = 2
-  api_key = "cPcDOLCm1rebGw60McgRkgBq9v209A3kp5IQ9VE4"
-  zoom = 15
+  api_key = ""
+  zoom = 17
 
 ############################
 ## Marketing

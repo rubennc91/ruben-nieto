@@ -271,8 +271,9 @@ plugins_js  = []
 ## Marketing
 ############################
 [marketing]
-  google_analytics = "G-RS1BQ7QN48"
-  google_tag_manager = "G-RS1BQ7QN48"
+  microsoft_clarity = "4de4n0ghqq"
+#  google_analytics = "G-RS1BQ7QN48"
+#  google_tag_manager = "G-RS1BQ7QN48"
 
 ############################
 ## Content Management System

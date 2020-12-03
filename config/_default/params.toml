@@ -98,7 +98,7 @@ address = {street = "Campus Universitario, Ctra. Madrid-Barcelona, km 33.600", c
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "40.513127", longitude = "-3.349648"}
+coordinates = {latitude = "40.51314", longitude = "-3.34997"}
 
 # Directions for visitors to locate you.
 directions = "Research Laboratory LO22. West, Floor 2, Corridor 2."
@@ -253,7 +253,7 @@ plugins_js  = []
   # and choose a map provider below.
   #
   # To use Google Maps, set `engine` to 1 and enter your API key that can be obtained here:
-  #   https://developers.google.com/maps/documentation/javascript/get-api-key
+  #   https://developers.google.com/maps/documentation/javascript/get-api-key AIzaSyCQfQlNdUYsanKBJ8RhgCcL7KRQfKR63C4
   # To use OpenStreetMap tiles, set `engine` to 2.
   # To use OpenStreetMap on a high traffic site, set `engine` to 3 and enter your API key that can be obtained here:
   #   https://www.mapbox.com/studio/account/tokens
@@ -263,8 +263,8 @@ plugins_js  = []
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  engine = 1
-  api_key = "AIzaSyCQfQlNdUYsanKBJ8RhgCcL7KRQfKR63C4"
+  engine = 2
+  api_key = ""
   zoom = 15
 
 ############################
@@ -284,7 +284,7 @@ plugins_js  = []
   # See https://wowchemy.com/docs/install/
   netlify_cms = true
 
-############################
+############################e
 ## Icon Pack Extensions
 ############################
 [icon.pack]

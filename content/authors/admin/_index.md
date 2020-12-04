@@ -28,13 +28,13 @@ interests:
 
 education:
   courses:
-  - course: PhD in Electronics. Advanced Electronic Systems. Intelligent Systems
+  - course: Ph.D. in Electronics. Advanced Electronic Systems. Intelligent Systems
     institution: University of Alcala
     year: 2020
-  - course: MEng in Telecommunication Engineering
+  - course: M.Sc. in Telecommunication Engineering
     institution: University of Alcala
     year: 2016
-  - course: BSc in Telecommunication Technologies Engineering
+  - course: B.Sc. in Telecommunication Technologies Engineering
     institution: University of Alcala
     year: 2015
 

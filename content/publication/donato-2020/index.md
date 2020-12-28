@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Review of NILM applications in smart grids: power quality assessment and assisted independent
+title: 'Review of NILM applications in smart grids: power quality assessment and assistedindependent
   living'
 subtitle: ''
 summary: ''
@@ -15,7 +15,7 @@ authors:
 tags: []
 categories: []
 date: '2020-01-01'
-lastmod: 2020-12-28T16:45:01+01:00
+lastmod: 2020-12-28T17:34:18+01:00
 featured: false
 draft: false
 
@@ -33,9 +33,18 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-28T15:44:58.565461Z'
+publishDate: '2020-12-28T16:34:17.720963Z'
 publication_types:
 - '1'
-abstract: 'Smart grids are a concept that is becoming a concrete reality in developed countries, and is only just emerging in developing countries. In both cases, they are transforming the customers' relationship with electricity in unexpected ways. In this work, it is shown an overview of some functionalities that will be developed within the smart grids, which have a common denominator: the use of non-intrusive load monitoring techniques. Some of these new functionalities have special relevance in the electrical networks of developing countries which present complex challenges and need to be updated fast. There are also some of the features that will be shown to present great challenges in developed countries at present, but which will be of interest in the future in the rest of the world.'
+abstract: "Smart grids are a concept that is becoming a concrete reality in developed\
+  \ countries, and is only just emerging in developing countries. In both cases, they\
+  \ are transforming the customers' relationship with electricity in unexpected ways.\
+  \ In this work, it is shown an overview of some functionalities that will be developed\
+  \ within the smart grids, which have a common denominator: the use of non-intrusive\
+  \ load monitoring techniques. Some of these new functionalities have special relevance\
+  \ in the electrical networks of developing countries which present complex challenges\
+  \ and need to be updated fast. There are also some of the features that will be\
+  \ shown to present great challenges in developed countries at present, but which\
+  \ will be of interest in the future in the rest of the world."
 publication: '*XXVII Congreso Argentino de Control Automático*'
 ---

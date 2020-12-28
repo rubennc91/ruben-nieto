@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Review of NILM applications in smart grids: power quality assessment and assistedindependent
+title: 'Review of NILM applications in smart grids: power quality assessment and assisted independent
   living'
 subtitle: ''
 summary: ''

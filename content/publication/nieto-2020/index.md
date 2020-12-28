@@ -33,7 +33,7 @@ projects: []
 publishDate: '2020-12-28T15:44:46.460607Z'
 publication_types:
 - '1'
-abstract: ''
+abstract: 'Power-Line Communications (PLC) often employ Wavelet Orthogonal Frequency Division Multiplexing (OFDM), improving communications through the PLC channel and providing broadband links. Since one of the main drawbacks is the noisy and interfering PLC channel, to deal with this, the receiver typically includes a channel estimator and equalizer. This increases the computational load and complexity of that receiver, making it difficult to achieve a feasible architecture for real-time implementations. In this work a heterogeneous SoC (System-on-Chip) architecture is proposed for an Filter-Bank Multi-Carrier (FBMC) receiver in PLC that carries out the corresponding channel estimation and equalization at the reception stage. The obtained experimental results include the evaluation of the time consumed by each part of the algorithm in the software part, as well as the resource consumption obtained by the proposal for a Zynq® 7000 SoC device.'
 publication: '*IEEE International Symposium on Power Line Communications and its Applications(ISPLC
   2020)*'
 ---

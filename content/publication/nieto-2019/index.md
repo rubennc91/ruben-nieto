@@ -1,15 +1,14 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Dual-Core Architecture for PLC Channel Estimator and ASCET Equalizer in a FBMC
-  Transmultiplexer
+title: Dual-Core Architecture for PLC Channel Estimator and ASCET Equalizer in a FBMC Transmultiplexer
 subtitle: ''
 summary: ''
 authors:
-- Ruben Nieto
-- Raul Mateos
-- Alvaro Hernandez
-- Edel Diaz
+- Rubén Nieto
+- Raúl Mateos
+- Álvaro Hernández
+- Edel Díaz
 tags: []
 categories: []
 date: '2019-09-01'
@@ -34,7 +33,7 @@ projects: []
 publishDate: '2020-12-28T15:43:56.086321Z'
 publication_types:
 - '1'
-abstract: ''
+abstract: 'Multi-carrier modulations used in Power-Line Communications (PLC), such as Filter-Bank Multi-Carrier (FBMC), allow broadband links and improve communications through the PLC channel, at the expense of adding complexity to the system. Although they perform suitably in most cases, the main drawback is often the PLC channel, noisy and with significant interferences. To compensate these adverse effects introduced by the channel, the reception stage includes a channel estimator and an equalizer, which also implies a higher computational load and complexity of the system at this stage, becoming difficult to achieve feasible architectures for real-time implementations. This work proposes an efficient dual-core solution to carry out the channel estimation and calculation of ASCET coefficients in the ARM processor of the Zynq-7000 System-on-Chip (SoC), with the objective of studying the feasibility of reaching a hardware/software architecture for the implementation of an FBMC transmultiplexer with channel estimator and equalizer. Preliminary results shown here include the evaluation of the time consumed by each part of the algorithm, and present the acceleration obtained by the dual-core proposal, depending on the order of L-ASCET equalizer considered.'
 publication: '*2019 24th IEEE International Conference on Emerging Technologies and
   Factory Automation (ETFA)*'
 doi: 10.1109/etfa.2019.8869476

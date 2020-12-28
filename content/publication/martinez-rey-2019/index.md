@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Online evaluation of the process noise covariance matrix for event-based state
-  estimators
+title: Online evaluation of the process noise covariance matrix for event-based state estimators
 subtitle: ''
 summary: ''
 authors:

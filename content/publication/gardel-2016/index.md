@@ -5,11 +5,11 @@ title: Wireless Camera Nodes on a Cyber-Physical System
 subtitle: ''
 summary: ''
 authors:
-- A. Gardel
-- F. Espinosa
-- R. Nieto
-- J. L. Lázaro
-- I. Bravo
+- Alfredo Gardel
+- Felipe Espinosa
+- Rubén Nieto
+- José Luis Lázaro
+- Ignacio Bravo
 tags: []
 categories: []
 date: '2016-09-01'

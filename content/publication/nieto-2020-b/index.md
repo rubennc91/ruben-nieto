@@ -33,7 +33,7 @@ projects: []
 publishDate: '2020-12-28T15:44:02.508429Z'
 publication_types:
 - '1'
-abstract: ''
+abstract: 'Most Non-Intrusive Load Monitoring (NILM) techniques often require a correct detection of the events that occur in the mains, in order to carry out a correct identification of the corresponding appliances. For that performance, event-detectors are normally based on signals, such as voltages and currents, acquired by a smart meter at the entrance of the household. In this work, a finite precision analysis is performed for an event detector implemented on a System-on-Chip (SoC) based on a Field-Programmable Gate Array (FPGA) for NILM applications. The proposal employs an integrated circuit (ADE9153A) to perform the signal acquisition at 4 ksamples/s, higher than those used in common smart meters installed at homes nowadays. The purpose of the finite precision analysis is to reduce the hardware resource consumption of the FPGA, while the precision of the event detector is maintained. To validate the design, a comparison is carried out in terms of accuracy and specificity against previous works, as well as a comparison of the event detector using finite precision (fixed-point) and singleprecision floating-point resolution. Finally, the hardware resource consumption obtained for the proposed architecture is discussed.' 
 publication: '*Proceedings of the 5th International Workshop on Non-Intrusive Load
   Monitoring*'
 doi: 10.1145/3427771.3427849

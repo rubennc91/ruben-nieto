@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 3D Position Estimation of an UAV in Indoor Environments using an Ultrasonic
-  Local Positioning System
+title: 3D Position Estimation of an UAV in Indoor Environments using an Ultrasonic Local Positioning System
 subtitle: ''
 summary: ''
 authors:

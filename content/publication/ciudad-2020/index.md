@@ -34,7 +34,7 @@ projects: []
 publishDate: '2020-12-28T15:44:52.627677Z'
 publication_types:
 - '1'
-abstract: ''
+abstract: 'Las arquitecturas SoC están teniendo un avance muy significativo en los últimos años debido a la posibilidad de flexibilizar los sistemas para adaptarlos a una gran variedad de aplicaciones. En este trabajo se presenta un sistema de posicionamiento ultrasónico en el que la recepción y procesamiento de la señal se lleva a cabo en un dispositivo SoC. El sistema recibe las transmisiones ultrasónicas, moduladas y codificadas por secuencias binarias, a una frecuencia de adquisición de 100 kHz. La señal capturada se envía a un periférico específico incluido en la arquitectura SoC, cuyo funcionamiento se basa en la realización de las correlaciones con las secuencias que se han emitido y la obtención de los picos de esas correlaciones. Una vez que se obtienen estos datos, se trasladan al procesador de la arquitectura SoC, para lo cual se ha desarrollado el correspondiente device driver. A partir de este driver, la aplicación de usuario obtiene las diferencias en tiempos de vuelo de las señales recibidas, para, posteriormente, estimar la posición del receptor móvil a partir de un algoritmo de posicionamiento hiperbólico en función de la localización de las balizas ultrasónicas que se hayan empleado.'
 publication: "*2020 XXVII Seminario Anual de Automática, Electrńica Industrial e Instrumentaci'\
   \ ́(SAAEI)*"
 ---

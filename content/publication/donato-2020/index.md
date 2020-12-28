@@ -36,6 +36,6 @@ projects: []
 publishDate: '2020-12-28T15:44:58.565461Z'
 publication_types:
 - '1'
-abstract: ''
+abstract: 'Smart grids are a concept that is becoming a concrete reality in developed countries, and is only just emerging in developing countries. In both cases, they are transforming the customers' relationship with electricity in unexpected ways. In this work, it is shown an overview of some functionalities that will be developed within the smart grids, which have a common denominator: the use of non-intrusive load monitoring techniques. Some of these new functionalities have special relevance in the electrical networks of developing countries which present complex challenges and need to be updated fast. There are also some of the features that will be shown to present great challenges in developed countries at present, but which will be of interest in the future in the rest of the world.'
 publication: '*XXVII Congreso Argentino de Control Automático*'
 ---

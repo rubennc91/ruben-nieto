@@ -1,18 +1,18 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Finite Precision Analysis for an FPGA-based NILM Event-Detector
+title: Arquitectura SoC para la Implementación de Técnicas NILM en Contadores Inteligentes
 subtitle: ''
 summary: ''
 authors:
-- Rubén Nieto
-- Laura de Diego-Otón
 - Álvaro Hernández
 - Jesús Ureña
+- Rubén Nieto
+- David Fuentes
 tags: []
 categories: []
-date: '2020-11-01'
-lastmod: 2020-12-28T16:44:05+01:00
+date: '2020-01-01'
+lastmod: 2020-12-28T16:44:52+01:00
 featured: false
 draft: false
 
@@ -30,11 +30,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-28T15:44:02.508429Z'
+publishDate: '2020-12-28T15:44:49.608489Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*Proceedings of the 5th International Workshop on Non-Intrusive Load
-  Monitoring*'
-doi: 10.1145/3427771.3427849
+publication: "*2020 XXVII Seminario Anual de Automática, Electrńica Industrial e Instrumentaci'\
+  \ ́(SAAEI)*"
 ---

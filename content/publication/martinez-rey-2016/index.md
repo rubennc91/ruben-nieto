@@ -1,18 +1,19 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Finite Precision Analysis for an FPGA-based NILM Event-Detector
+title: Smart laser scanner for event-based state estimation applied to indoor positioning
 subtitle: ''
 summary: ''
 authors:
-- Rubén Nieto
-- Laura de Diego-Otón
-- Álvaro Hernández
-- Jesús Ureña
+- Miguel Martinez-Rey
+- Enrique Santiso
+- Felipe Espinosa
+- Ruben Nieto
+- Alfredo Gardel
 tags: []
 categories: []
-date: '2020-11-01'
-lastmod: 2020-12-28T16:44:05+01:00
+date: '2016-10-01'
+lastmod: 2020-12-28T16:44:21+01:00
 featured: false
 draft: false
 
@@ -30,11 +31,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-28T15:44:02.508429Z'
+publishDate: '2020-12-28T15:44:18.805525Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*Proceedings of the 5th International Workshop on Non-Intrusive Load
-  Monitoring*'
-doi: 10.1145/3427771.3427849
+publication: '*2016 International Conference on Indoor Positioning and Indoor Navigation
+  (IPIN)*'
+doi: 10.1109/ipin.2016.7743613
 ---

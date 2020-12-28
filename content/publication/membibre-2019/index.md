@@ -1,17 +1,17 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Design of FPGA-based Architecture for an Analog Front-End in Broadband PLC
+title: Arquitectura para Comunicaciones PLC de Banda Ancha basada en un AnalogFront-End
 subtitle: ''
 summary: ''
 authors:
 - Francisco Membibre
-- Ruben Nieto
-- Alvaro Hernandez
+- Rubén Nieto
+- Álvaro Hernández
 tags: []
 categories: []
-date: '2019-09-01'
-lastmod: 2020-12-02T21:48:23+01:00
+date: '2019-01-01'
+lastmod: 2020-12-28T16:44:43+01:00
 featured: false
 draft: false
 
@@ -29,11 +29,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-02T20:54:42.464474Z'
+publishDate: '2020-12-28T15:44:40.703039Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*2019 24th IEEE International Conference on Emerging Technologies and
-  Factory Automation (ETFA)*'
-doi: 10.1109/etfa.2019.8869166
+publication: "*2019 XXVI Seminario Anual de Automática, Electrńica Industrial e Instrumentaci'\
+  \ ́(SAAEI)*"
 ---

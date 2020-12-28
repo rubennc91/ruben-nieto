@@ -1,18 +1,18 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Finite Precision Analysis for an FPGA-based NILM Event-Detector
+title: Aplicación de Unidad Vectorial NEON para la Implementaciń de un Transmultiplexor
+  FBMC con Estimador e Igualador de Canal
 subtitle: ''
 summary: ''
 authors:
 - Rubén Nieto
-- Laura de Diego-Otón
-- Álvaro Hernández
-- Jesús Ureña
+- \ĺvaro Hern\'d́ez
+- " Ra\\'uḾateo"
 tags: []
 categories: []
-date: '2020-11-01'
-lastmod: 2020-12-28T16:44:05+01:00
+date: '2019-01-01'
+lastmod: 2020-12-28T16:44:46+01:00
 featured: false
 draft: false
 
@@ -30,11 +30,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-28T15:44:02.508429Z'
+publishDate: '2020-12-28T15:44:43.796444Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*Proceedings of the 5th International Workshop on Non-Intrusive Load
-  Monitoring*'
-doi: 10.1145/3427771.3427849
+publication: "*2019 XXVI Seminario Anual de Automática, Electrńica Industrial e Instrumentaci'\
+  \ ́(SAAEI)*"
 ---

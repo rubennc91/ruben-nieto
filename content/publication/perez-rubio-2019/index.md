@@ -1,18 +1,32 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Finite Precision Analysis for an FPGA-based NILM Event-Detector
+title: 'A realistic evaluation of indoor robot position tracking systems: The IPIN
+  2016 competition experience'
 subtitle: ''
 summary: ''
 authors:
-- Rubén Nieto
-- Laura de Diego-Otón
-- Álvaro Hernández
+- Maria Carmen Pérez-Rubio
+- Cristina Losada-Gutiérrez
+- Felipe Espinosa
+- Javier Macias-Guarasa
+- Janis Tiemann
+- Fabian Eckermann
+- Christian Wietfeld
+- Maxim Katkov
+- Sergey Huba
 - Jesús Ureña
+- José Manuel Villadangos
+- David Gualda
+- Edel Díaz
+- Rubén Nieto
+- Enrique Santiso
+- Pablo del Portillo
+- Miguel Martínez
 tags: []
 categories: []
-date: '2020-11-01'
-lastmod: 2020-12-28T16:44:05+01:00
+date: '2019-03-01'
+lastmod: 2020-12-28T16:44:12+01:00
 featured: false
 draft: false
 
@@ -30,11 +44,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-28T15:44:02.508429Z'
+publishDate: '2020-12-28T15:44:09.177605Z'
 publication_types:
-- '1'
+- '2'
 abstract: ''
-publication: '*Proceedings of the 5th International Workshop on Non-Intrusive Load
-  Monitoring*'
-doi: 10.1145/3427771.3427849
+publication: '*Measurement*'
+doi: 10.1016/j.measurement.2018.11.018
 ---

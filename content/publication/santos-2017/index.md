@@ -1,18 +1,33 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Finite Precision Analysis for an FPGA-based NILM Event-Detector
+title: 'Proyecto ALCOR: retos y resultados'
 subtitle: ''
 summary: ''
 authors:
+- Carlos Santos
+- Francisco Domingo
+- David Rodriguez
+- Miguel Martinez-Rey
+- Fernando León
+- Antonio Cubero
 - Rubén Nieto
-- Laura de Diego-Otón
-- Álvaro Hernández
-- Jesús Ureña
+- Álvaro de la Llana
+- Pablo del Portillo
+- Juan Iglesias
+- Enrique Santiso
+- Alfredo Gardel
+- Ignacio Bravo
+- Jose María Castillo
+- Francisco José Estévez
+- Jose Manuel Palomares
+- Joaquín Olivares
+- José Luis Lázaro
+- Felipe Espinosa.
 tags: []
 categories: []
-date: '2020-11-01'
-lastmod: 2020-12-28T16:44:05+01:00
+date: '2017-06-01'
+lastmod: 2020-12-28T16:44:25+01:00
 featured: false
 draft: false
 
@@ -30,11 +45,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-28T15:44:02.508429Z'
+publishDate: '2020-12-28T15:44:22.088765Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*Proceedings of the 5th International Workshop on Non-Intrusive Load
-  Monitoring*'
-doi: 10.1145/3427771.3427849
+publication: '*Jornadas Nacionales de Robótica. JNR2017*'
 ---

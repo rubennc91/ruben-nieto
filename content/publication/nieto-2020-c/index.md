@@ -1,18 +1,18 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Finite Precision Analysis for an FPGA-based NILM Event-Detector
+title: Performance Improvement of PLC Channel Estimator and ASCET Equalizer in a FBMC
+  Transmultiplexer Based on a Multi-Core Solution
 subtitle: ''
 summary: ''
 authors:
-- Rubén Nieto
-- Laura de Diego-Otón
-- Álvaro Hernández
-- Jesús Ureña
+- Ruben Nieto
+- Raul Mateos
+- Alvaro Hernandez
 tags: []
 categories: []
-date: '2020-11-01'
-lastmod: 2020-12-28T16:44:05+01:00
+date: '2020-01-01'
+lastmod: 2020-12-28T16:43:52+01:00
 featured: false
 draft: false
 
@@ -30,11 +30,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-28T15:44:02.508429Z'
+publishDate: '2020-12-28T15:43:49.795118Z'
 publication_types:
-- '1'
+- '2'
 abstract: ''
-publication: '*Proceedings of the 5th International Workshop on Non-Intrusive Load
-  Monitoring*'
-doi: 10.1145/3427771.3427849
+publication: '*IEEE Access*'
+doi: 10.1109/access.2020.3031476
 ---

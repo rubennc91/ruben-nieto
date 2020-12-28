@@ -1,18 +1,16 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Finite Precision Analysis for an FPGA-based NILM Event-Detector
+title: Evaluation of Software Inter-Processor Synchronization Methods for theZynq-UltraScale+
+  Architecture
 subtitle: ''
 summary: ''
 authors:
-- Rubén Nieto
-- Laura de Diego-Otón
-- Álvaro Hernández
-- Jesús Ureña
+- Rubén Nieto; Edel Díaz; Raúl Mateos; Álvaro Hernández.�
 tags: []
 categories: []
 date: '2020-11-01'
-lastmod: 2020-12-28T16:44:05+01:00
+lastmod: 2020-12-28T16:44:40+01:00
 featured: false
 draft: false
 
@@ -30,11 +28,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-28T15:44:02.508429Z'
+publishDate: '2020-12-28T15:44:37.762951Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*Proceedings of the 5th International Workshop on Non-Intrusive Load
-  Monitoring*'
-doi: 10.1145/3427771.3427849
+publication: '*XXXVII Conference on Design of Circuits and Integrated Systems (DCIS
+  2020)*'
+doi: 10.1109/dcis.2018.8681466
 ---

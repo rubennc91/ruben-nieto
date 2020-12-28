@@ -1,18 +1,20 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: HW/SW Architecture for a Broadband Power-Line Communication System With LS
-  Channel Estimator and ASCET Equalizer
+title: Online evaluation of the process noise covariance matrix for event-based state
+  estimators
 subtitle: ''
 summary: ''
 authors:
-- Ruben Nieto
-- Raul Mateos
-- Alvaro Hernandez
+- Miguel Martínez-Rey
+- Carlos Santos
+- Rubén Nieto
+- Cristina Losada
+- Felipe Espinosa
 tags: []
 categories: []
-date: '2020-11-01'
-lastmod: 2020-12-02T21:48:22+01:00
+date: '2019-06-01'
+lastmod: 2020-12-28T16:44:08+01:00
 featured: false
 draft: false
 
@@ -30,10 +32,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-02T20:54:41.609054Z'
+publishDate: '2020-12-28T15:44:05.925356Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*IEEE Transactions on Industrial Informatics*'
-doi: 10.1109/tii.2020.2969448
+publication: '*International Journal for Numerical Methods in Engineering*'
+doi: 10.1002/nme.6131
 ---

@@ -1,18 +1,21 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Finite Precision Analysis for an FPGA-based NILM Event-Detector
+title: 'Review of NILM applications in smart grids: power quality assessment and assistedindependent
+  living'
 subtitle: ''
 summary: ''
 authors:
-- Rubén Nieto
-- Laura de Diego-Otón
+- Patricio G. Donato
 - Álvaro Hernández
+- Marcos A. Funes
+- Ignacio Carugati
+- Rubén Nieto
 - Jesús Ureña
 tags: []
 categories: []
-date: '2020-11-01'
-lastmod: 2020-12-28T16:44:05+01:00
+date: '2020-01-01'
+lastmod: 2020-12-28T16:45:01+01:00
 featured: false
 draft: false
 
@@ -30,11 +33,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-28T15:44:02.508429Z'
+publishDate: '2020-12-28T15:44:58.565461Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*Proceedings of the 5th International Workshop on Non-Intrusive Load
-  Monitoring*'
-doi: 10.1145/3427771.3427849
+publication: '*XXVII Congreso Argentino de Control Automático*'
 ---

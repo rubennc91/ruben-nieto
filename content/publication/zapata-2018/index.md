@@ -1,18 +1,18 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Finite Precision Analysis for an FPGA-based NILM Event-Detector
+title: 'Proyecto ALCOR: Contribuciones a la Optimización del Guiado Remoto de Robots
+  en Espacios Inteligentes'
 subtitle: ''
 summary: ''
 authors:
-- Rubén Nieto
-- Laura de Diego-Otón
-- Álvaro Hernández
-- Jesús Ureña
+- Felipe Espinosa Zapata
+- José Luis Lázaro Galilea
+- Joaquín Olivares Bueno
 tags: []
 categories: []
-date: '2020-11-01'
-lastmod: 2020-12-28T16:44:05+01:00
+date: '2018-09-01'
+lastmod: 2020-12-28T16:44:15+01:00
 featured: false
 draft: false
 
@@ -30,11 +30,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-28T15:44:02.508429Z'
+publishDate: '2020-12-28T15:44:12.410581Z'
 publication_types:
-- '1'
+- '2'
 abstract: ''
-publication: '*Proceedings of the 5th International Workshop on Non-Intrusive Load
-  Monitoring*'
-doi: 10.1145/3427771.3427849
+publication: '*Revista Iberoamericana de Automática e Informática industrial*'
+doi: 10.4995/riai.2018.9199
 ---

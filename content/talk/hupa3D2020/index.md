@@ -1,5 +1,5 @@
 ---
-title: Introducción a la Impresión 3D para Aplicación Médica. (Language: ES)
+title: "Introducción a la Impresión 3D para Aplicación Médica. (Language: ES)"
 event: Academic Theme Conference
 event_url: 
 

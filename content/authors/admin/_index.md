@@ -16,27 +16,27 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
-- System-on-Chip
-- Signal Processing
-- Embedded Systems
-- Robotics
-- Sensor Networks
-- Multi-core Processor
-- Power-Line Communications
-- Non-Intrusive Load Monitoring
+# interests:
+# - System-on-Chip
+# - Signal Processing
+# - Embedded Systems
+# - Robotics
+# - Sensor Networks
+# - Multi-core Processor
+# - Power-Line Communications
+# - Non-Intrusive Load Monitoring
 
-education:
-  courses:
-  - course: Ph.D. in Electronics. Advanced Electronic Systems. Intelligent Systems
-    institution: University of Alcala
-    year: 2020
-  - course: M.Sc. in Telecommunication Engineering
-    institution: University of Alcala
-    year: 2016
-  - course: B.Sc. in Telecommunication Technologies Engineering
-    institution: University of Alcala
-    year: 2015
+# education:
+#   courses:
+#   - course: Ph.D. in Electronics. Advanced Electronic Systems. Intelligent Systems
+#     institution: University of Alcala
+#     year: 2020
+#   - course: M.Sc. in Telecommunication Engineering
+#     institution: University of Alcala
+#     year: 2016
+#   - course: B.Sc. in Telecommunication Technologies Engineering
+#     institution: University of Alcala
+#     year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -74,6 +74,6 @@ user_groups:
 - Visitors
 ---
 
-Rubén Nieto is a Visiting Professor in the Department of Applied Mathematics, Materials Science and Engineering and Electronic Technology at Rey Juan Carlos University. He is involved in teaching of "Subject 1", "Subject 2", "Subject 3" and "Subject 4" and his main research interests include robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, self-organizing robotic systems and mobile sensor networks.
+# Rubén Nieto is a Visiting Professor in the Department of Applied Mathematics, Materials Science and Engineering and Electronic Technology at Rey Juan Carlos University. He is involved in teaching of "Subject 1", "Subject 2", "Subject 3" and "Subject 4" and his main research interests include robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, self-organizing robotic systems and mobile sensor networks.
 
-He received his formation at the University of Alcalá, where he obtained a Bachelor's degree, a Master's degree and his Doctor of Philosophy (PhD) in Electronics: Advanced Electronic Systems and Intelligent Systems. After obtaining his PhD, he was a postdoctoral researcher at the same University. 
+# He received his formation at the University of Alcalá, where he obtained a Bachelor's degree, a Master's degree and his Doctor of Philosophy (PhD) in Electronics: Advanced Electronic Systems and Intelligent Systems. After obtaining his PhD, he was a postdoctoral researcher at the same University. 

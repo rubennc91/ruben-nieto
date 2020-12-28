@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Implementación de un Sistema de Posicionamiento con Luz Visible basado en focosLEDs
+title: Implementación de un Sistema de Posicionamiento con Luz Visible basado en focos LEDs
   y un receptor QADA
 subtitle: ''
 summary: ''

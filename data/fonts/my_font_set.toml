@@ -7,5 +7,5 @@ google_fonts = "family=Fjalla+One&family=Merriweather&family=Roboto+Mono"
 # Font families
 heading_font = "Fjalla One"
 body_font = "Merriweather"
-nav_font = "Fjalla One"
+nav_font = "Roboto"
 mono_font = "Roboto Mono"

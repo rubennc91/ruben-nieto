@@ -2,7 +2,7 @@
 name = "my_font_set"
 
 # Optional Google font URL
-google_fonts = "Fjalla+One&family=Merriweather&family=Roboto+Mono"
+google_fonts = "family=Fjalla+One&family=Merriweather&family=Roboto+Mono"
 
 # Font families
 heading_font = "Fjalla One"

@@ -14,27 +14,27 @@ subtitle = ""
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
-interests:
-- System-on-Chip
-- Signal Processing
-- Embedded Systems
-- Robotics
-- Sensor Networks
-- Multi-core Processor
-- Power-Line Communications
-- Non-Intrusive Load Monitoring
-
-education:
-  courses:
-  - course: Ph.D. in Electronics. Advanced Electronic Systems. Intelligent Systems
-    institution: University of Alcala
-    year: 2020
-  - course: M.Sc. in Telecommunication Engineering
-    institution: University of Alcala
-    year: 2016
-  - course: B.Sc. in Telecommunication Technologies Engineering
-    institution: University of Alcala
-    year: 2015
+#interests:
+#- System-on-Chip
+#- Signal Processing
+#- Embedded Systems
+#- Robotics
+#- Sensor Networks
+#- Multi-core Processor
+#- Power-Line Communications
+#- Non-Intrusive Load Monitoring
+#
+#education:
+#  courses:
+#  - course: Ph.D. in Electronics. Advanced Electronic Systems. Intelligent Systems
+#    institution: University of Alcala
+#    year: 2020
+#  - course: M.Sc. in Telecommunication Engineering
+#    institution: University of Alcala
+#    year: 2016
+#  - course: B.Sc. in Telecommunication Technologies Engineering
+#    institution: University of Alcala
+#    year: 2015
 
 +++
 

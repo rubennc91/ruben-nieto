@@ -16,7 +16,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-
 education:
   courses:
   - course: Ph.D. in Electronics. Advanced Electronic Systems. Intelligent Systems
@@ -28,7 +27,7 @@ education:
   - course: B.Sc. in Telecommunication Technologies Engineering
     institution: University of Alcala
     year: 2015
-	
+
 interests:
 - System-on-Chip
 - Signal Processing

@@ -35,7 +35,7 @@ projects: []
 publishDate: '2020-12-28T15:44:05.925356Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: 'In state estimation, adjusting the process noise covariance matrix is an important and often difficult task. Well‐known methods use the innovation vector to perform an adaptive adjustment, but when using event‐based sensors, the innovation vector is not available for the estimator. We propose an online method for adjusting the process noise covariance matrix using the expected and observed event rates, which is based on the golden section search optimization algorithm. Simulation results confirm the suitability and efficiency of our proposed method. The process noise covariance parameter converges to the actual covariance iteratively, reducing the sensor transmission rate and the estimation error.'
 publication: '*International Journal for Numerical Methods in Engineering*'
 doi: 10.1002/nme.6131
 ---

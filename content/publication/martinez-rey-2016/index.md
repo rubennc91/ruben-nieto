@@ -34,7 +34,7 @@ projects: []
 publishDate: '2020-12-28T15:44:18.805525Z'
 publication_types:
 - '1'
-abstract: ''
+abstract: 'Smart laser scanner for event-based state estimation applied to indoor positioning'
 publication: '*2016 International Conference on Indoor Positioning and Indoor Navigation
   (IPIN)*'
 doi: 10.1109/ipin.2016.7743613

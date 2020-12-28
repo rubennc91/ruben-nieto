@@ -6,12 +6,12 @@ title: Rubén Nieto Capuchino
 superuser: true
 
 # Role/position
-role: PostDoctoral Research
+role: Visiting Professor
 
 # Organizations/Affiliations
 organizations:
-- name: University of Alcala
-  url: "www.uah.es"
+- name: Rey Juan Carlos University
+  url: "www.urjc.es"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -74,6 +74,6 @@ user_groups:
 - Visitors
 ---
 
-Rubén Nieto is a Postdoctoral Researcher in the Department of Electronics at the Unversidad de Alcalá. His research interests include robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, self-organising robot systems and mobile sensor networks.
+Rubén Nieto is a Visiting Professor in the Department of Applied Mathematics, Materials Science and Engineering and Electronic Technology at Rey Juan Carlos University. He is involved in teaching of "Subject 1", "Subject 2", "Subject 3" and "Subject 4" and his main research interests include robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, self-organizing robotic systems and mobile sensor networks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+He received his formation at the University of Alcalá, where he obtained a Bachelor's degree, a Master's degree and his Doctor of Philosophy (PhD) in Electronics: Advanced Electronic Systems and Intelligent Systems. After obtaining his PhD, he was a postdoctoral researcher at the same University. 

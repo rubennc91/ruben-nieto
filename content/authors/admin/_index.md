@@ -16,15 +16,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
-- System-on-Chip
-- Signal Processing
-- Embedded Systems
-- Robotics
-- Sensor Networks
-- Multi-core Processor
-- Power-Line Communications
-- Non-Intrusive Load Monitoring
 
 education:
   courses:
@@ -36,7 +27,18 @@ education:
     year: 2016
   - course: B.Sc. in Telecommunication Technologies Engineering
     institution: University of Alcala
-#     year: 2015
+    year: 2015
+	
+interests:
+- System-on-Chip
+- Signal Processing
+- Embedded Systems
+- Robotics
+- Sensor Networks
+- Multi-core Processor
+- Power-Line Communications
+- Non-Intrusive Load Monitoring
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

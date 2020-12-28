@@ -94,21 +94,21 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Polytechnic School of the University of Alcala. Campus Universitario, Ctra. Madrid-Barcelona, km. 33,600.", city = "Alcalá de Henares (Madrid)", region = "", postcode = "28805", country = "Spain", country_code = "ES"}
+address = {street = "Escuela Superior de Ciencias Experimentales y Tecnología - ESCET URJC. Calle Tulipán, 0", city = "Móstoles", region = "Madrid", postcode = "28933", country = "Spain", country_code = "ES"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom. 
-coordinates = {latitude = "40.51312", longitude = "-3.34963"}
+coordinates = {latitude = "40.335661", longitude = "-3.876841"}
 
 # Directions for visitors to locate you.
-directions = "Research Laboratory LO22. West, Floor 2, Corridor 2."
+directions = "TBD"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Monday 11:00 to 14:00"]
+office_hours = ["TBD"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://calendly.com/ruben3101/30min"
+appointment_url = "https://calendly.com/ruben3101/60min"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.

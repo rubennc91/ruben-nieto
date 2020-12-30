@@ -46,4 +46,5 @@ abstract: "Smart grids are a concept that is becoming a concrete reality in deve
   \ shown to present great challenges in developed countries at present, but which\
   \ will be of interest in the future in the rest of the world."
 publication: '*XXVII Congreso Argentino de Control Automático*'
+doi: 10.23919/AADECA49780.2020.9301641
 ---

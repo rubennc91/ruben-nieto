@@ -16,8 +16,8 @@ abstract: "Informative talk about introduction to 3D printing for application in
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-01-08T09:00:00Z"
-date_end: "2021-01-08T11:30:00Z"
+date: "2021-02-08T09:00:00Z"
+date_end: "2021-02-08T11:30:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).

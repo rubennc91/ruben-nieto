@@ -37,7 +37,7 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
+  url: https://twitter.com/rubennc91
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -56,7 +56,7 @@ slides: example
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-- internal-project
+- 
 
 # Enable math on this page?
 math: true

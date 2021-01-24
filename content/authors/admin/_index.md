@@ -46,7 +46,7 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:ruben.nieto@uah.es".
+  link: '/#contact'  # For a direct email link, use "mailto:ruben.nieto@urjc.es".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/rubennc91
@@ -63,7 +63,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "ruben3101@gmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -74,7 +74,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Rubén Nieto is a Visiting Professor in the Department of Applied Mathematics, Materials Science and Engineering and Electronic Technology at Rey Juan Carlos University. He is involved in teaching of "Subject 1", "Subject 2", "Subject 3" and "Subject 4" and his main research interests include robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, self-organizing robotic systems and mobile sensor networks.
+Rubén Nieto is a Visiting Professor in the Department of Applied Mathematics, Materials Science and Engineering and Electronic Technology at Rey Juan Carlos University. He is involved in teaching of Hospital Engineering, Electrical and Electronic Engineering, Automatic Control I and Analog Electronics and his main research interests include robotics, cloud computing, FPGAs, System-on-Chip, among others.
 
 He received his formation at the University of Alcalá, where he obtained a Bachelor's degree, a Master's degree and his Doctor of Philosophy (PhD) in Electronics: Advanced Electronic Systems and Intelligent Systems. After obtaining his PhD, he was a postdoctoral researcher at the same University. 
 

@@ -101,11 +101,11 @@ address = {street = "Escuela Superior de Ciencias Experimentales y Tecnología -
 coordinates = {latitude = "40.335661", longitude = "-3.876841"}
 
 # Directions for visitors to locate you.
-directions = "TBD"
+directions = "Departamental II - Office 166"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["TBD"]
+office_hours = ["09.00h to 20.00h"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = "https://calendly.com/ruben-nieto"
@@ -126,7 +126,7 @@ contact_links = [
 ############################
 
 # Default image for social sharing and search engines. Place image in `static/media/` folder and specify image name here.
-sharing_image = ""
+sharing_image = "avatar"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
 twitter = "rubennc91"

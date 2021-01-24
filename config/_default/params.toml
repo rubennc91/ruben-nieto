@@ -108,17 +108,17 @@ directions = "TBD"
 office_hours = ["TBD"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://calendly.com/ruben3101/60min"
+appointment_url = "https://calendly.com/ruben-nieto"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/rubennc91"},
-  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:ruben3101?call"},
+  {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@rubennc91"},
+  # {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:ruben3101?call"},
   {icon = "linkedin", icon_pack = "fab", name = "Connect Me", link = "https://www.linkedin.com/in/rubennietoc/"},
   # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
-  # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
 
 ############################
@@ -180,7 +180,7 @@ plugins_js  = []
 # An avatar can be uploaded as an image named `avatar` to each user's profile or fetched from Gravatar.com.
 [avatar]
   # Get user avatars from Gravatar.com? (true/false)
-  gravatar = false
+  gravatar = true
 
   # Choose a shape for avatar images. Options: circle, square.
   shape = "circle"

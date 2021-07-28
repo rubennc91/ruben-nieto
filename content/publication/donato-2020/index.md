@@ -1,7 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Review of NILM applications in smart grids: power quality assessment and assisted independent living'
+title: 'Review of NILM applications in smart grids: power quality assessment and assistedindependent
+  living'
 subtitle: ''
 summary: ''
 authors:
@@ -32,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-28T16:34:17.720963Z'
+publishDate: '2021-07-28T11:05:48.687755Z'
 publication_types:
 - '1'
 abstract: "Smart grids are a concept that is becoming a concrete reality in developed\

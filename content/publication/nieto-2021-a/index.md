@@ -2,7 +2,7 @@
 title: Evaluación de una Arquitectura CNN para la Identificación de Cargas en NILM
 date: '2021-01-01'
 draft: true
-publishDate: '2021-07-28T10:54:06.136037Z'
+publishDate: '2021-07-28T11:05:52.700234Z'
 authors:
 - Laura de Diego Otón
 - Álvaro Hernández Alonso

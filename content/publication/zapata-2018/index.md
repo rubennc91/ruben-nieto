@@ -30,10 +30,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-28T15:44:12.410581Z'
+publishDate: '2021-07-28T11:05:42.820637Z'
 publication_types:
 - '2'
-abstract: 'El trabajo muestra las soluciones sensoriales, de comunicaciones y control, al guiado remoto de robots en entornos inteligentes derivadas del proyecto ALCOR. En este tipo de aplicaciones la optimización de los recursos compartidos, especialmente los relacionados con la autonomía energética y con la utilización del canal inalámbrico, sigue siendo un reto. Las principales aportaciones del proyecto son: a) desarrollo de unidades sensoriales basadas en infrarrojos con precisión centimétrica en la localización de la fuente emisora y tiempos de respuesta de milisegundos; b) soluciones de comunicación inalámbrica que mejoran el enrutamiento de información y la homogeneización en el tráfico de red; y c) soluciones de control y estimación basadas en eventos con mecanismos independientes de actuación sobre la unidad móvil y de petición de medidas al módulo sensorial. Para las pruebas experimentales se ha utilizado el robot comercial P3-DX.'
+abstract: ''
 publication: '*Revista Iberoamericana de Automática e Informática industrial*'
 doi: 10.4995/riai.2018.9199
 ---

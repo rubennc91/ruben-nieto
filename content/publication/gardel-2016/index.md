@@ -5,11 +5,11 @@ title: Wireless Camera Nodes on a Cyber-Physical System
 subtitle: ''
 summary: ''
 authors:
-- Alfredo Gardel
-- Felipe Espinosa
-- Rubén Nieto
-- José Luis Lázaro
-- Ignacio Bravo
+- A. Gardel
+- F. Espinosa
+- R. Nieto
+- J. L. Lázaro
+- I. Bravo
 tags: []
 categories: []
 date: '2016-09-01'
@@ -31,10 +31,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-28T15:44:15.357454Z'
+publishDate: '2021-07-28T11:05:43.243937Z'
 publication_types:
 - '1'
-abstract: 'This paper describes the configuration of a networked control system with multiple distributed cameras as edge nodes of a cyber-physical system. The proposed architecture deploys multiple distributed on computer vision edge nodes capturing the motion of mobile robots to interact with people on the environment. The camera nodes, network devices and mobile robots are considered part of the same control loop. Our approach provides a flexible scalable architecture that balances accuracy and reliability of the cyber-physical system, taking advantage of video processing on intermediate networked nodes and providing new functions and capabilities with minor changes. Main contribution of this paper is to configure the computer vision nodes considering the networked control loop with an adjustable sampling period to achieve the desired performance controlling the trajectory of multiple robots. Different tests have been done on a smart space as an end application framework.'
+abstract: ''
 publication: '*Proceedings of the 10th International Conference on Distributed Smart
   Camera*'
 doi: 10.1145/2967413.2967423

@@ -45,9 +45,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-28T15:44:22.088765Z'
+publishDate: '2021-07-28T11:05:44.099282Z'
 publication_types:
 - '1'
-abstract: 'El proyecto ALCOR surge de la colaboración entre grupos de investigación de las universidades de Alcalá y Córdoba para aportar soluciones sensoriales, de control y comunicaciones en entornos inteligentes. Entre los retos planteados está la estructura (elementos y disposición) de redes inalámbricas de sensores de infrarrojos para conseguir precisión centimétrica de posicionamiento, el control y estimación basada en eventos para el seguimiento remoto de unidades móviles consiguiendo optimizar los recursos compartidos (energía y canal de comunicación), y el dotar a la red de comunicaciones de la inteligencia y seguridad necesarias desarrollando mecanismos de mejora de sincronización y de enrutamiento. Fruto de la investigación realizada se han obtenido resultados experimentales publicados (revistas y conferencias) en cada uno de los campos implicados, y se está trabajando en un demostrador de validación conjunta de propuestas.'
+abstract: ''
 publication: '*Jornadas Nacionales de Robótica. JNR2017*'
 ---

@@ -30,10 +30,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-28T15:45:01.690508Z'
+publishDate: '2021-07-28T11:05:49.198441Z'
 publication_types:
 - '1'
-abstract: 'In recent years the development and deployment of commercial Smart Meters in most households in developed countries have spread the appearance of certain applications and methods, mainly related to the fields of Smart Grids and Internet of Things, where Non-Intrusive Load Monitoring (NILM) is one of the most well-known. It takes advantage of the capability of Smart Meters to acquire the electrical signals of a household or building in real time, in order to implement a set of techniques oriented to disaggregate the power consumption, according to the different electrical loads plugged in the facility. Previous works are often based on a cloud-computing approach, where samples are transferred straightforwardly from the local meter to the cloud for further analysis. This implies that the sampling rates are low in order to keep the required bandwidth reduced, thus constraining the final performance achieved in the load identification. This work presents the design of a System-on-Chip (SoC) architecture based on a Field-Programmable Gate Array (FPGA) device that can be installed locally at the input of the electrical installation from a house or building. It is able to manage data rates at high sampling frequencies and to implement in real time those algorithms proposed for the electrical signal processing and load classification. Experimental results have preliminary validated the proposed architecture.'
-publication: '*XXXVII Conference on Design of Circuits and Integrated Systems (DCIS 2020)*'
+abstract: ''
+publication: '*XXXVII Conference on Design of Circuits and Integrated Systems (DCIS
+  2020)*'
 doi: 10.1109/dcis.2018.8681466
 ---

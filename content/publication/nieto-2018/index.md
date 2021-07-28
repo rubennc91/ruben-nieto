@@ -29,9 +29,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-28T15:44:25.553829Z'
+publishDate: '2021-07-28T11:05:44.516135Z'
 publication_types:
 - '1'
-abstract: 'Los sistemas de comunicación PLC (Power Line Communications) tienen gran aceptación en el ámbito industrial, comercial y doméstico, debido a que aprovechan la infraestructura ya instalada en el entorno para proporcionar enlaces de banda ancha. Para ello, las distintas propuestas suelen desarrollar una técnica de acceso al medio basada en una modulación multiportadora para la transmisión de información. Una de las alternativas posibles es el empleo de una modulación multiportadora basada en bancos de filtros polifásicos (FBMC, Filter-Bank Multi-Carrier), la cual incorpora dicho banco tras la Transformada Discreta del Coseno (DCT, Discrete Cosine Transform), en aras de una mejor separación espectral y de mejorar la interferencia entre portadoras (ICI, Inter-Carrier Interference). Sin embargo, exige una alta carga computacional, con cierta complejidad, lo que lleva a que a menudo se empleen dispositivos FPGA (Field-Programmable Gate Arrays) para acometer el diseño de arquitecturas para la implementación de las propuestas en tiempo real, con un consumo de recursos eficiente. Actualmente, el uso de herramientas de síntesis de alto nivel (HLS, High-Level Synthesis), mediante lenguajes de alto nivel, permite generar de forma automática la arquitectura hardware a partir de una descripción funcional del sistema, reduciendo el tiempo de desarrollo. En este trabajo se presenta una comparativa de un sistema de comunicaciones multiportadora FBMC para PLC modelado con HLS, con respecto a la misma algoritmia abordada con un enfoque más clásico a partir de modelado en HDL (Hardware Description Language). La comparativa analiza los factores que determinan las prestaciones del diseño relativos a: tiempo/esfuerzo de desarrollo, consumos de recursos (eficiencia), velocidad de computo (dato/ciclo) y frecuencia máxima de operación.'
-publication: "*2018 XXV Seminario Anual de Automática, Electrńica Industrial e Instrumentación (SAAEI)*"
+abstract: ''
+publication: "*2018 XXV Seminario Anual de Automática, Electrńica Industrial e Instrumentaci'\
+  \ ́(SAAEI)*"
 ---

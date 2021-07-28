@@ -8,7 +8,7 @@ authors:
 - Miguel Martinez-Rey
 - Enrique Santiso
 - Felipe Espinosa
-- Rubén Nieto
+- Ruben Nieto
 - Alfredo Gardel
 tags: []
 categories: []
@@ -31,10 +31,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-28T15:44:18.805525Z'
+publishDate: '2021-07-28T11:05:43.690301Z'
 publication_types:
 - '1'
-abstract: 'Smart laser scanner for event-based state estimation applied to indoor positioning'
-publication: '*2016 International Conference on Indoor Positioning and Indoor Navigation (IPIN)*'
+abstract: ''
+publication: '*2016 International Conference on Indoor Positioning and Indoor Navigation
+  (IPIN)*'
 doi: 10.1109/ipin.2016.7743613
 ---

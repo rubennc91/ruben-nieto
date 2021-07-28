@@ -6,22 +6,22 @@ title: Performance Improvement of PLC Channel Estimator and ASCET Equalizer in a
 subtitle: ''
 summary: ''
 authors:
-- Rubén Nieto
-- Raúl Mateos
-- Álvaro Hernández
+- Ruben Nieto
+- Raul Mateos
+- Alvaro Hernandez
 tags: []
 categories: []
 date: '2020-01-01'
 lastmod: 2020-12-28T16:43:52+01:00
-featured: true
+featured: false
 draft: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: 'Graphical abstract'
-  focal_point: 'Center'
+  caption: Graphical abstract
+  focal_point: Center
   preview_only: true
 
 # Projects (optional).
@@ -30,10 +30,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-28T15:43:49.795118Z'
+publishDate: '2021-07-28T11:05:40.291858Z'
 publication_types:
 - '2'
-abstract: 'Power-Line Communication (PLC) employs multi-carrier modulations, such as Filter-Bank Multi-Carrier (FBMC), to improve communications through the PLC channel and provide an efficient use of the spectrum, thus allowing higher data rates. Since one of the main drawbacks is the noisy channel with multipath and frequency-selective fading, the receiver typically includes a channel estimator and equalizer, at the expense of increasing the computational load and complexity of that receiver and making it difficult to obtain real-time solutions. In this context, this work proposes a heterogeneous System-on-Chip (SoC) architecture for the real-time implementation of a FBMC transmultiplexer that involves the channel estimation and equalization at the reception stage. For that purpose, the performance of a multi-core approach is evaluated for both the Zynq® 7000 SoC and the Zynq® UltraScale+ (US+) devices, by using a single-, dual- and quad-core solution to perform the channel estimation and the calculation of the equalizer coefficients in the ARM processor available in the proposed architecture. Two approaches have been analysed for the necessary synchronization among cores; one based on atomic instructions and the other one on interrupts. The dual-core proposal in both Zynq® 7000 and Zynq® US+ provides a x2 acceleration compared to the single-core proposal, whereas the quad-core one in Zynq®US+ does not provide a x4 acceleration as expected, due to the timing overheads of the synchronization among cores imposed by the data dependencies existing in these tasks. Experimental results include the evaluation of the processing times for each task in the algorithm, as well as the acceleration obtained by each proposal. The proposed architecture can be easily applied to other processing algorithms that may take advantage of the parallelism provided by the multi-core approach in a more efficient way, depending on their data dependencies.'
+abstract: ''
 publication: '*IEEE Access*'
 doi: 10.1109/access.2020.3031476
 ---

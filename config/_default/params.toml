@@ -98,7 +98,7 @@ address = {street = "Escuela Superior de Ciencias Experimentales y Tecnología -
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom. 
-coordinates = {latitude = "40.33555431104897", longitude = "-3.877735909979794"}, 
+coordinates = {latitude = "40.33555431104897", longitude = "-3.877735909979794"} 
 
 # Directions for visitors to locate you.
 directions = "Departamental II - Office 166"

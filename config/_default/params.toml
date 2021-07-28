@@ -98,14 +98,14 @@ address = {street = "Escuela Superior de Ciencias Experimentales y Tecnología -
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom. 
-coordinates = {latitude = "40.335661", longitude = "-3.876841"}
+coordinates = {latitude = "40.33555431104897", longitude = "-3.877735909979794"}, 
 
 # Directions for visitors to locate you.
 directions = "Departamental II - Office 166"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["09.00h to 20.00h"]
+office_hours = ["Available from 09.00h to 18.00h"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = "https://calendly.com/ruben-nieto"
@@ -113,6 +113,7 @@ appointment_url = "https://calendly.com/ruben-nieto"
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
+  {icon = "university", icon_pack = "fas", name = "URJC website ", link = "https://gestion2.urjc.es/pdi/ver/ruben.nieto"},
   {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/rubennc91"},
   {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@rubennc91"},
   # {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:ruben3101?call"},

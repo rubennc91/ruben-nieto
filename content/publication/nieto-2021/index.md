@@ -12,7 +12,7 @@ authors:
 publication_types:
 - '1'
 abstract: ''
-featured: false
+featured: true
 publication: '*2021 IEEE International Instrumentation and Measurement Technology
   Conference (I2MTC)*'
 doi: 10.1109/i2mtc50364.2021.9460010

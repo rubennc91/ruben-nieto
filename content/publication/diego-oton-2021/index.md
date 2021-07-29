@@ -3,7 +3,7 @@ title: Recurrent LSTM Architecture for Appliance Identification in Non-Intrusive
   Monitoring
 date: '2021-05-01'
 draft: true
-publishDate: '2021-07-29T06:20:38.617675Z'
+publishDate: '2021-07-29T06:29:39.451183Z'
 authors:
 - Laura de Diego-Oton
 - David Fuentes-Jimenez

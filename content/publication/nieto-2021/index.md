@@ -3,7 +3,7 @@ title: Data Collection and Cloud Processing Architecture Applied to NILM Techniq
   for Independent Living
 date: '2021-05-01'
 draft: true
-publishDate: '2021-07-29T06:20:38.171825Z'
+publishDate: '2021-07-29T06:29:39.046773Z'
 authors:
 - Ruben Nieto
 - Laura de Diego-Oton

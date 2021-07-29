@@ -6,7 +6,10 @@ title: Evaluation of Software Inter-Processor Synchronization Methods for theZyn
 subtitle: ''
 summary: ''
 authors:
-- Rubén Nieto; Edel Díaz; Raúl Mateos; Álvaro Hernández.�
+- Rubén Nieto
+- Edel Díaz
+- Raúl Mateos
+- Álvaro Hernández
 tags: []
 categories: []
 date: '2020-11-01'
@@ -28,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-07-28T11:37:56.002093Z'
+publishDate: '2021-07-29T06:20:33.223826Z'
 publication_types:
 - '1'
 abstract: ''

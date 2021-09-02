@@ -24,7 +24,10 @@ date_format = "Jan 2006"
   location = "Móstoles (Madrid) - Spain"
   date_start = "2021-01-16"
   date_end = "" 
-  description = """In the 2020-21 academic year I have taught: Hospital Engineering for the Bachelors Degree in Biomedical Engineering; Electrical Engineering and Electronics for the Bachelor's Degrees in Industrial Organization Engineering, Materials Engineering and Mechanical Engineering; Analog Electronics, Fundamentals of Engineering of Electrical Engineering and Automatic Regulation I of the Bachelors Degree in Industrial Electronics and Automation Engineering."""
+  description = """In the 2020-21 academic year I have taught: 
+  * Hospital Engineering for the Bachelors Degree in Biomedical Engineering; 
+  * Electrical Engineering and Electronics for the Bachelor's Degrees in Industrial Organization Engineering, Materials Engineering and Mechanical Engineering; 
+  * Analog Electronics, Fundamentals of Engineering of Electrical Engineering and Automatic Regulation I of the Bachelors Degree in Industrial Electronics and Automation Engineering."""
 # date_end = "2021-04-30"
 [[experience]]
   title = "Postdoctoral Research"

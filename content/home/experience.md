@@ -25,9 +25,13 @@ date_format = "Jan 2006"
   date_start = "2021-01-16"
   date_end = "" 
   description = """In the 2020-21 academic year I have taught: 
-  * Hospital Engineering for the Bachelors Degree in Biomedical Engineering; 
-  * Electrical Engineering and Electronics for the Bachelor's Degrees in Industrial Organization Engineering, Materials Engineering and Mechanical Engineering; 
-  * Analog Electronics, Fundamentals of Engineering of Electrical Engineering and Automatic Regulation I of the Bachelors Degree in Industrial Electronics and Automation Engineering."""
+  * Theory lesson of Hospital Engineering for the Bachelors Degree in Biomedical Engineering. [EN]
+  * Theory lesson of Electrical Engineering and Electronics for the Bachelor's Degrees in Industrial Organization Engineering. [ES]
+  * Laboratory of Electrical Engineering and Electronics for the Materials Engineering Bachelors Degree. [ES]
+  * Laboratory of Electrical Engineering and Electronics for the Mechanical Engineering Bachelors Degree. [ES]
+  * Laboratory of Analog Electronics for the Bachelors Degree in Industrial Electronics and Automation Engineering. [ES]
+  * Laboratory of Fundamentals of Engineering of Electrical Engineering for the Bachelors Degree in Industrial Electronics and Automation Engineering. [ES]
+  * Laboratory of Automatic Regulation I for the Bachelors Degree in Industrial Electronics and Automation Engineering. [ES] """
 # date_end = "2021-04-30"
 [[experience]]
   title = "Postdoctoral Research"

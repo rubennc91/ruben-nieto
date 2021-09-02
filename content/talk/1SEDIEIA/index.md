@@ -11,8 +11,8 @@ address:
   postcode: '28933'
   country: Spain
 
-summary: Digital Electronic Systems (SED).
-abstract: "The program Digital Electronic Systems (SED) provides to students the introduction to the design of digital systems based on microprocessors and microcontrollers. For this purpose, it has a great practical content where the student receives training in the programming of microcontrollers and in the design of digital systems with reconfigurable hardware. SED is closely related to the subjects Computer Science, Analog Electronics, Digital Electronics and Fundamentals of Electrical Engineering."
+summary: Digital Electronic Systems (DES).
+abstract: "The program Digital Electronic Systems (DES) provides to students the introduction to the design of digital systems based on microprocessors and microcontrollers. For this purpose, it has a great practical content where the student receives training in the programming of microcontrollers and in the design of digital systems with reconfigurable hardware. DES is closely related to the subjects Computer Science, Analog Electronics, Digital Electronics and Fundamentals of Electrical Engineering."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

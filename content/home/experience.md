@@ -32,6 +32,7 @@ date_format = "Jan 2006"
   * Laboratory of Analog Electronics for the Bachelors Degree in Industrial Electronics and Automation Engineering. [ES]
   * Laboratory of Fundamentals of Engineering of Electrical Engineering for the Bachelors Degree in Industrial Electronics and Automation Engineering. [ES]
   * Laboratory of Automatic Regulation I for the Bachelors Degree in Industrial Electronics and Automation Engineering. [ES] """
+  
 # date_end = "2021-04-30"
 [[experience]]
   title = "Postdoctoral Research"

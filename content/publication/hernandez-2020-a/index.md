@@ -2,7 +2,7 @@
 title: Design of SoC Architecture for the Local Implementation of NILM Techniques
 date: '2020-11-01'
 draft: true
-publishDate: '2021-07-29T06:29:37.832061Z'
+publishDate: '2021-09-02T11:26:21.830617Z'
 authors:
 - Álvaro Hernández
 - Rubén Nieto

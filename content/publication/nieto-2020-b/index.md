@@ -3,7 +3,7 @@ title: Heterogeneous SoC Architecture for a FBMC Receiver with Channel Estimator
   Channel Equalizer in PLC
 date: '2020-01-01'
 draft: true
-publishDate: '2021-07-29T06:29:35.700368Z'
+publishDate: '2021-09-02T11:26:18.626827Z'
 authors:
 - Rubén Nieto
 - Raúl Mateos

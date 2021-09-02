@@ -2,7 +2,7 @@
 title: 'Modelado HLS de un Transmultiplexor Multiportadora para PLC: Comparativa dePrestaciones'
 date: '2018-01-01'
 draft: true
-publishDate: '2021-07-29T06:29:33.272878Z'
+publishDate: '2021-09-02T11:26:14.783053Z'
 authors:
 - Rubén Nieto
 - Álvaro Hernández

@@ -3,7 +3,7 @@ title: 'A realistic evaluation of indoor robot position tracking systems: The IP
   2016 competition experience'
 date: '2019-03-01'
 draft: true
-publishDate: '2021-07-29T06:29:31.227472Z'
+publishDate: '2021-09-02T11:26:11.652056Z'
 authors:
 - Maria Carmen Pérez-Rubio
 - Cristina Losada-Gutiérrez

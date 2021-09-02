@@ -3,7 +3,7 @@ title: Aplicación de Unidad Vectorial NEON para la Implementaciń de un Transmu
   FBMC con Estimador e Igualador de Canal
 date: '2019-01-01'
 draft: true
-publishDate: '2021-07-29T06:29:35.297889Z'
+publishDate: '2021-09-02T11:26:17.974113Z'
 authors:
 - Rubén Nieto
 - \ĺvaro Hern\'d́ez

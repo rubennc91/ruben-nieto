@@ -2,7 +2,7 @@
 title: Finite Precision Analysis for an FPGA-based NILM Event-Detector
 date: '2020-11-01'
 draft: true
-publishDate: '2021-07-29T06:29:40.265269Z'
+publishDate: '2021-09-02T11:26:25.738553Z'
 authors:
 - Rubén Nieto
 - Laura de Diego-Ot\ń

@@ -3,7 +3,7 @@ title: Evaluation of Software Inter-Processor Synchronization Methods for theZyn
   Architecture
 date: '2020-11-01'
 draft: true
-publishDate: '2021-07-29T06:29:34.474155Z'
+publishDate: '2021-09-02T11:26:16.693441Z'
 authors:
 - Rubén Nieto
 - Edel Díaz

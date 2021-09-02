@@ -3,7 +3,7 @@ title: Evaluation of Software Inter-Processor Synchronization Methods for the Zy
   Architecture
 date: '2020-11-01'
 draft: true
-publishDate: '2021-07-29T06:29:39.853584Z'
+publishDate: '2021-09-02T11:26:25.027497Z'
 authors:
 - Ruben Nieto
 - Edel Diaz

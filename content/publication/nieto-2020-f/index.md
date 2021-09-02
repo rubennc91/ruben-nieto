@@ -3,7 +3,7 @@ title: Arquitectura Mixta HW/SW para el Igualador de Canal L-ASCET en Comunicaci
   PLC
 date: '2020-01-01'
 draft: true
-publishDate: '2021-07-29T06:29:36.923368Z'
+publishDate: '2021-09-02T11:26:20.578830Z'
 authors:
 - Rubén Nieto
 - Raúl Mateos

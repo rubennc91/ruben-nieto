@@ -3,7 +3,7 @@ title: HW/SW Architecture for a Broadband Power-Line Communication System With L
   Channel Estimator and ASCET Equalizer
 date: '2020-11-01'
 draft: true
-publishDate: '2021-07-29T06:29:29.610363Z'
+publishDate: '2021-09-02T11:26:08.996565Z'
 authors:
 - Ruben Nieto
 - Raul Mateos

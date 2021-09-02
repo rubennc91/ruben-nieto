@@ -2,7 +2,7 @@
 title: Smart laser scanner for event-based state estimation applied to indoor positioning
 date: '2016-10-01'
 draft: true
-publishDate: '2021-07-29T06:29:32.441095Z'
+publishDate: '2021-09-02T11:26:13.545384Z'
 authors:
 - Miguel Martinez-Rey
 - Enrique Santiso

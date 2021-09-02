@@ -3,7 +3,7 @@ title: 3D Position Estimation of an UAV in Indoor Environments using an Ultrason
   LocalPositioning System
 date: '2018-01-01'
 draft: true
-publishDate: '2021-07-29T06:29:34.071837Z'
+publishDate: '2021-09-02T11:26:16.048151Z'
 authors:
 - David Gualda
 - Jesús Ureña

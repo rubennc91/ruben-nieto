@@ -2,7 +2,7 @@
 title: Arquitectura para Comunicaciones PLC de Banda Ancha basada en un AnalogFront-End
 date: '2019-01-01'
 draft: true
-publishDate: '2021-07-29T06:29:34.878561Z'
+publishDate: '2021-09-02T11:26:17.332532Z'
 authors:
 - Francisco Membibre
 - Rubén Nieto

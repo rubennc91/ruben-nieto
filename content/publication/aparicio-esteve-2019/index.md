@@ -3,7 +3,7 @@ title: Implementación de un Sistema de Posicionamiento con Luz Visible basado e
   y un receptor QADA
 date: '2019-01-01'
 draft: true
-publishDate: '2021-07-29T06:29:33.673120Z'
+publishDate: '2021-09-02T11:26:15.438739Z'
 authors:
 - Elena Aparicio-Esteve
 - Álvaro Hernández

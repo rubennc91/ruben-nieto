@@ -2,7 +2,7 @@
 title: Design of a SoC Architecture for the Edge Computing of NILM Techniques
 date: '2020-11-01'
 draft: true
-publishDate: '2021-07-29T06:29:41.465516Z'
+publishDate: '2021-09-02T11:26:27.952202Z'
 authors:
 - Alvaro Hernandez
 - Ruben Nieto

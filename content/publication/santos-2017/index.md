@@ -2,7 +2,7 @@
 title: 'Proyecto ALCOR: retos y resultados'
 date: '2017-06-01'
 draft: true
-publishDate: '2021-07-29T06:29:32.848049Z'
+publishDate: '2021-09-02T11:26:14.157861Z'
 authors:
 - Carlos Santos
 - Francisco Domingo

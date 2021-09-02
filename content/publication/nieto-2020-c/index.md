@@ -3,7 +3,7 @@ title: Performance Improvement of PLC Channel Estimator and ASCET Equalizer in a
   Transmultiplexer Based on a Multi-Core Solution
 date: '2020-01-01'
 draft: true
-publishDate: '2021-07-29T06:29:29.203674Z'
+publishDate: '2021-09-02T11:26:08.330103Z'
 authors:
 - Ruben Nieto
 - Raul Mateos

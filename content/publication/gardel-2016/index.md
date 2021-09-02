@@ -2,7 +2,7 @@
 title: Wireless Camera Nodes on a Cyber-Physical System
 date: '2016-09-01'
 draft: true
-publishDate: '2021-07-29T06:29:32.039461Z'
+publishDate: '2021-09-02T11:26:12.897537Z'
 authors:
 - A. Gardel
 - F. Espinosa

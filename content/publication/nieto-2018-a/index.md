@@ -3,7 +3,7 @@ title: Finite Precision Analysis of FPGA-based Architecture for FBMC Transmultip
   in Broadband PLC
 date: '2018-11-01'
 draft: true
-publishDate: '2021-07-29T06:29:38.233939Z'
+publishDate: '2021-09-02T11:26:22.479998Z'
 authors:
 - Rubén Nieto
 - Edel Díaz

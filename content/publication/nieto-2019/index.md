@@ -3,7 +3,7 @@ title: Dual-Core Architecture for PLC Channel Estimator and ASCET Equalizer in a
   Transmultiplexer
 date: '2019-09-01'
 draft: true
-publishDate: '2021-07-29T06:29:30.016175Z'
+publishDate: '2021-09-02T11:26:09.708354Z'
 authors:
 - Ruben Nieto
 - Raul Mateos

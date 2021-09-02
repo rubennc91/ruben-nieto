@@ -3,7 +3,7 @@ title: 'Proyecto ALCOR: Contribuciones a la Optimización del Guiado Remoto de R
   en Espacios Inteligentes'
 date: '2018-09-01'
 draft: true
-publishDate: '2021-07-29T06:29:31.634106Z'
+publishDate: '2021-09-02T11:26:12.272915Z'
 authors:
 - Felipe Espinosa Zapata
 - José Luis Lázaro Galilea

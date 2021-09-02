@@ -2,7 +2,7 @@
 title: Enabling Parallelized-QEMU for Hardware/Software Co-Simulation Virtual Platforms
 date: '2021-03-01'
 draft: true
-publishDate: '2021-07-29T06:29:38.638816Z'
+publishDate: '2021-09-02T11:26:23.122952Z'
 authors:
 - Edel Díaz
 - Raúl Mateos

@@ -3,7 +3,7 @@ title: Diseño de una Arquitectura SoC con Periféricos Específicos para un Sis
   dePosicionamiento Ultrasónico
 date: '2020-01-01'
 draft: true
-publishDate: '2021-07-29T06:29:36.507333Z'
+publishDate: '2021-09-02T11:26:19.937186Z'
 authors:
 - Francisco Ciudad
 - Álvaro Hernández

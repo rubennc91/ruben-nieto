@@ -3,7 +3,7 @@ title: Online evaluation of the process noise covariance matrix for event-based 
   estimators
 date: '2019-06-01'
 draft: true
-publishDate: '2021-07-29T06:29:30.812466Z'
+publishDate: '2021-09-02T11:26:10.995246Z'
 authors:
 - Miguel Martínez-Rey
 - Carlos Santos

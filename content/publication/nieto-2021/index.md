@@ -14,13 +14,13 @@ tags: []
 categories: []
 date: '2021-05-01'
 lastmod: 2021-09-02T13:46:17+02:00
-featured: true
+featured: false
 draft: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image: 'images/SmartMeter.png'
+image:
   caption: ''
   focal_point: ''
   preview_only: false

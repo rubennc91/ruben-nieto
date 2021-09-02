@@ -1,9 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: 'Review of NILM applications in smart grids: power quality assessment and assistedindependent
   living'
-date: '2020-01-01'
-draft: true
-publishDate: '2021-09-02T11:26:21.197401Z'
+subtitle: ''
+summary: ''
 authors:
 - Patricio G. Donato
 - Álvaro Hernández
@@ -11,10 +12,39 @@ authors:
 - Ignacio Carugati
 - Rubén Nieto
 - Jesús Ureña
+tags: []
+categories: []
+date: '2020-01-01'
+lastmod: 2021-09-02T13:46:13+02:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-09-02T12:20:22.353674Z'
 publication_types:
 - '1'
-abstract: ''
-featured: false
+abstract: "Smart grids are a concept that is becoming a concrete reality in developed\
+  \ countries, and is only just emerging in developing countries. In both cases, they\
+  \ are transforming the customers' relationship with electricity in unexpected ways.\
+  \ In this work, it is shown an overview of some functionalities that will be developed\
+  \ within the smart grids, which have a common denominator: the use of non-intrusive\
+  \ load monitoring techniques. Some of these new functionalities have special relevance\
+  \ in the electrical networks of developing countries which present complex challenges\
+  \ and need to be updated fast. There are also some of the features that will be\
+  \ shown to present great challenges in developed countries at present, but which\
+  \ will be of interest in the future in the rest of the world."
 publication: '*XXVII Congreso Argentino de Control Automático*'
 ---
-

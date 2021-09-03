@@ -1,5 +1,5 @@
 ---
-title: "Digital Electronic Systems. (Laboratory)."
+title: "1S - Digital Electronic Systems. (Laboratory)."
 event: Academic Theme Conference
 event_url: 
 

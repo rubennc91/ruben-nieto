@@ -1,5 +1,5 @@
 ---
-title: "1S - Electrical and Electronic Engineering (Laboratory)."
+title: "2S - Electrical and Electronic Engineering (Laboratory)."
 event: Academic Theme Conference
 event_url: 
 

@@ -12,7 +12,7 @@ address:
   country: Spain
 
 summary: Bachelors Degree in Industrial Technology Engineering.
-abstract: "Electronic circuits can be divided into two broad categories: digital and analog. Digital electronics uses discrete-valued quantities and analog electronics uses continuous-valued quantities. Digital electronics is the basis of all management, processing and control systems in industry. This course describes the fundamentals of digital electronics, number systems and Boolean algebra.  And the analysis and design of combinational and sequential systems are studied."
+abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -61,3 +61,5 @@ slides: example
 # Enable math on this page?
 math: true
 ---
+
+Electronic circuits can be divided into two broad categories: digital and analog. Digital electronics uses discrete-valued quantities and analog electronics uses continuous-valued quantities. Digital electronics is the basis of all management, processing and control systems in industry. This course describes the fundamentals of digital electronics, number systems and Boolean algebra.  And the analysis and design of combinational and sequential systems are studied.

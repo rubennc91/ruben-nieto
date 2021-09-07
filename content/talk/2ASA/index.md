@@ -12,7 +12,7 @@ address:
   country: Spain
 
 summary: Bachelors Degree in Audiovisual and Multimedia Systems Engineering.
-abstract: "Audiovisual Systems Architecture is a compulsory subject of the COMMON MODULE TELECOMMUNICATION BRANCH in the Audiovisual Systems and Multimedia the formative itinerary of the Degrees in Audiovisual Systems and Multimedia Engineering, which contributes to obtain the students autonomous learning of new knowledge and techniques suitable for the conception, the development or the exploitation of the development or operation of telecommunication systems and services (C.1). The aim of this course is to contribute to a professional profile of the graduate with a transversal training in the different specialities (Telecommunication Systems, Telematics, Electronics and Sound), Telematics, Electronics and Sound and Image). The general objective of this course is to acquire the essential knowledge of digital electronics: Logic Families. Circuits Combinational circuits. Sequential circuits. Programmable logic devices for audio and video, familiarization with CAD tools for the development of combinational circuits. CAD tools for the development of combinational and sequential circuits."
+abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -61,3 +61,5 @@ slides: example
 # Enable math on this page?
 math: true
 ---
+
+Audiovisual Systems Architecture is a compulsory subject of the COMMON MODULE TELECOMMUNICATION BRANCH in the Audiovisual Systems and Multimedia the formative itinerary of the Degrees in Audiovisual Systems and Multimedia Engineering, which contributes to obtain the students autonomous learning of new knowledge and techniques suitable for the conception, the development or the exploitation of the development or operation of telecommunication systems and services (C.1). The aim of this course is to contribute to a professional profile of the graduate with a transversal training in the different specialities (Telecommunication Systems, Telematics, Electronics and Sound), Telematics, Electronics and Sound and Image). The general objective of this course is to acquire the essential knowledge of digital electronics: Logic Families. Circuits Combinational circuits. Sequential circuits. Programmable logic devices for audio and video, familiarization with CAD tools for the development of combinational circuits. CAD tools for the development of combinational and sequential circuits.

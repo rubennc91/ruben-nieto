@@ -12,7 +12,7 @@ address:
   country: Spain
 
 summary: Bachelors Degree in Industrial Technology Engineering.
-abstract: "When talking about Digital Electronics we are in the presence of the greatest advance in electronic science and it is a fundamental basis for management, processing and control systems for modern industry. This course is a necessary introduction to digital electronics that covers from its most basic theoretical foundations, to more complex blocks and systems such as microprocessors and microcontrollers. The fundamentals and laws governing digital electronics (numbering systems and Boolean algebra) are described, as well as different techniques of analysis and design of digital circuits at different levels are taught."
+abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -61,3 +61,5 @@ slides: example
 # Enable math on this page?
 math: true
 ---
+
+When talking about Digital Electronics we are in the presence of the greatest advance in electronic science and it is a fundamental basis for management, processing and control systems for modern industry. This course is a necessary introduction to digital electronics that covers from its most basic theoretical foundations, to more complex blocks and systems such as microprocessors and microcontrollers. The fundamentals and laws governing digital electronics (numbering systems and Boolean algebra) are described, as well as different techniques of analysis and design of digital circuits at different levels are taught.

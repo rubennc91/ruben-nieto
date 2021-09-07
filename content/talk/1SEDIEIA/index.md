@@ -1,22 +1,22 @@
 ---
 title: "1S - Digital Electronic Systems. (Laboratory)."
-event: Academic Theme Conference
-event_url: 
+event: "Academic Theme Conference"
+event_url: "https://gestion2.urjc.es/pdi/ver/ruben.nieto"
 
-location: Escuela Superior de Ciencias Experimentales y Tecnología - ESCET URJC
+location: "Escuela Superior de Ciencias Experimentales y Tecnología - ESCET URJC"
 address:
-  street: Calle Tulipán, 0
-  city: Móstoles
-  region: Madrid
+  street: "Calle Tulipán, 0"
+  city: "Móstoles"
+  region: "Madrid"
   postcode: '28933'
-  country: Spain
+  country: "Spain"
 
-summary: Bachelors Degree in Industrial Electronics and Automation Engineering.
-abstract: "The program Digital Electronic Systems (DES) provides to students the introduction to the design of digital systems based on microprocessors and microcontrollers. For this purpose, it has a great practical content where the student receives training in the programming of microcontrollers and in the design of digital systems with reconfigurable hardware. DES is closely related to the subjects Computer Science, Analog Electronics, Digital Electronics and Fundamentals of Electrical Engineering."
+summary: "Bachelors Degree in Industrial Electronics and Automation Engineering."
+abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-09-13T00:00:00Z"
+date: "2021-09-01T00:00:00Z"
 date_end: "2021-12-18T00:00:00Z"
 all_day: true
 
@@ -30,7 +30,7 @@ tags: [Microcontroller and microprocessors]
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'STM32 Nucleo board'
   focal_point: Right
 
 links:
@@ -48,7 +48,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -61,3 +61,5 @@ slides: example
 # Enable math on this page?
 math: true
 ---
+
+The program Digital Electronic Systems (DES) provides to students the introduction to the design of digital systems based on microprocessors and microcontrollers. For this purpose, it has a great practical content where the student receives training in the programming of microcontrollers and in the design of digital systems with reconfigurable hardware. DES is closely related to the subjects Computer Science, Analog Electronics, Digital Electronics and Fundamentals of Electrical Engineering.

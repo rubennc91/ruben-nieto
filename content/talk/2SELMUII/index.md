@@ -12,7 +12,7 @@ address:
   country: Spain
 
 summary: Masters Degree in Industrial Engineering.
-abstract: "Digital design is the basis of all management, processing and control systems in industry. In this course we will an introduction to the design of digital systems, from its theoretical bases (numbering systems, Boolean algebra, design of combinational and sequential systems) to the simulation and implementation of complete digital systems. of combinational and sequential systems) to the simulation and implementation of complete digital systems. In addition, the student will work in several practical sessions, in which prototypes of digital systems will be designed and developed, including acquisition and processing of signals. including acquisition and processing of analog and digital signals."
+abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -61,3 +61,5 @@ slides: example
 # Enable math on this page?
 math: true
 ---
+
+Digital design is the basis of all management, processing and control systems in industry. In this course we will an introduction to the design of digital systems, from its theoretical bases (numbering systems, Boolean algebra, design of combinational and sequential systems) to the simulation and implementation of complete digital systems. of combinational and sequential systems) to the simulation and implementation of complete digital systems. In addition, the student will work in several practical sessions, in which prototypes of digital systems will be designed and developed, including acquisition and processing of signals. including acquisition and processing of analog and digital signals.

@@ -24,13 +24,13 @@ all_day: true
 publishDate: "2021-09-01T00:00:00Z"
 
 authors: [Rubén Nieto]
-tags: [Microcontroller and microprocessors]
+tags: [Basic Electronics]
 
 # Is this a featured talk? (true/false)
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'STM32 Nucleo board'
   focal_point: Right
 
 links:

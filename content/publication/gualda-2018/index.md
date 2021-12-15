@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-09-02T12:20:17.888334Z'
+publishDate: '2021-12-15T10:17:40.030765Z'
 publication_types:
 - '1'
 abstract: This work presents an initial study of 3D position estimation of an Unmanned

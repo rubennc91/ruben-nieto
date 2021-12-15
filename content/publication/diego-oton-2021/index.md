@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-09-02T12:20:25.032795Z'
+publishDate: '2021-12-15T10:17:51.907520Z'
 publication_types:
 - '1'
 abstract: Non-Intrusive Load Monitoring (NILM) techniques are commonly used to measure

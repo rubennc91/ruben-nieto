@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-09-02T12:20:21.821079Z'
+publishDate: '2021-12-15T10:17:47.525393Z'
 publication_types:
 - '1'
 abstract: Los enlaces de comunicaci´on de banda ancha para comunicaciones PLC (Power-Line

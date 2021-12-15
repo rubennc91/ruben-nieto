@@ -14,15 +14,16 @@ tags: []
 categories: []
 date: '2021-05-01'
 lastmod: 2021-09-02T13:46:17+02:00
-featured: true
+featured: false
 draft: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: 'General aspect of the smart meter implemented to carry out the different tests in the laboratory.'
-  focal_point: 'Center'
+  caption: General aspect of the smart meter implemented to carry out the different
+    tests in the laboratory.
+  focal_point: Center
   preview_only: false
 
 # Projects (optional).
@@ -31,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-09-02T12:20:24.481820Z'
+publishDate: '2021-12-15T10:17:51.012540Z'
 publication_types:
 - '1'
 abstract: Non-intrusive load monitoring (NILM) concerns those techniques used to disaggregate

@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-09-02T12:20:16.709814Z'
+publishDate: '2021-12-15T10:17:38.175422Z'
 publication_types:
 - '1'
 abstract: 'Los sistemas de comunicación PLC (Power Line Communications) tienen gran

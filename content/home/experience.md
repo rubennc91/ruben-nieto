@@ -24,9 +24,9 @@ date_format = "Jan 2006"
   location = "Móstoles (Madrid) - Spain"
   date_start = "2021-11-01"
   date_end = "" 
-  description = """In the 2021-22 academic year I taught: """
-	Laboratory of Digital Electronic Systems. Bachelors Degree in Industrial Electronics and Automation Engineering. [ES]
-	Laboratory of Electrical and Electronic Engineering. Bachelors Degree in Chemical Engineering. [ES] """
+  description = """In the 2021-22 academic year I taught:
+	* (1S) Laboratory of Digital Electronic Systems. Bachelors Degree in Industrial Electronics and Automation Engineering. [ES]
+	* (1S) Laboratory of Electrical and Electronic Engineering. Bachelors Degree in Chemical Engineering. [ES] """
 #  * Laboratory of Electrical Engineering and Electronics for the Materials Engineering Bachelors Degree. [ES]
 #  * Laboratory of Electrical Engineering and Electronics for the Mechanical Engineering Bachelors Degree. [ES]
 #  * Laboratory of Analog Electronics for the Bachelors Degree in Industrial Electronics and Automation Engineering. [ES]

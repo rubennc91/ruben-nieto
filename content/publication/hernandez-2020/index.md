@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-12-15T11:12:20.244230Z'
+publishDate: '2021-12-15T14:46:48.052563Z'
 publication_types:
 - '1'
 abstract: En las últimas décadas, con el desarrollo a nivel mundial de las redes inteligentes

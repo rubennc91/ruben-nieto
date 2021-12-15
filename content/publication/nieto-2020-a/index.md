@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-12-15T11:12:27.136396Z'
+publishDate: '2021-12-15T14:46:55.691680Z'
 publication_types:
 - '1'
 abstract: Current embedded systems provide diverse functionalities and their features

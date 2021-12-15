@@ -45,7 +45,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-12-15T11:12:14.087230Z'
+publishDate: '2021-12-15T14:46:39.981580Z'
 publication_types:
 - '1'
 abstract: El proyecto ALCOR surge de la colaboración entre grupos de investigación

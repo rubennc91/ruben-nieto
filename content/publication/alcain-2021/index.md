@@ -1,12 +1,25 @@
 ---
 title: Hardware Architectures for Real-Time Medical Imaging
 date: '2021-12-01'
-draft: true
-publishDate: '2021-12-15T14:47:04.583248Z'
+draft: false
+publishDate: '2021-12-15T14:55:21.906517Z'
 authors:
 - Eduardo Alcaín
 - Pedro R. Fernández
 - Rubén Nieto
+- Antonio S. Montemayor
+- Jaime Vilas
+- Adrian Galiana-Bordera
+- Pedro Miguel Martinez-Girones
+- Carmen Prieto de la Lastra
+- Borja Rodriguez-Vila
+- Marina Bonet
+- Cristina Rodriguez-Sanchez
+- Imene Yahyaoui
+- Norberto Malpica
+- Susana Borromeo
+- Felipe Machado
+- Angel Torrado-Carvajal
 publication_types:
 - '2'
 abstract: Medical imaging is considered one of the most important advances in the

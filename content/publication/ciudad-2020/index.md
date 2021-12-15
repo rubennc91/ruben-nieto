@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-12-15T14:46:49.064432Z'
+publishDate: '2021-12-15T14:55:10.807136Z'
 publication_types:
 - '1'
 abstract: Las arquitecturas SoC están teniendo un avance muy significativo en los

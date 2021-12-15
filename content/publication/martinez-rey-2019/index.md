@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-12-15T14:46:35.057388Z'
+publishDate: '2021-12-15T14:54:56.776890Z'
 publication_types:
 - '2'
 abstract: In state estimation, adjusting the process noise covariance matrix is an

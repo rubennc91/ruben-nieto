@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-12-15T14:46:32.576369Z'
+publishDate: '2021-12-15T14:54:55.105448Z'
 publication_types:
 - '1'
 abstract: Multi-carrier modulations used in Power-Line Communications (PLC), such

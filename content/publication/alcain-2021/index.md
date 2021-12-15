@@ -38,7 +38,7 @@ abstract: Medical imaging is considered one of the most important advances in th
   discussing different options depending on the specific application. The main purpose
   is to provide a general introduction to hardware acceleration techniques for medical
   imaging researchers and developers who need to accelerate their implementations.
-featured: false
+featured: true
 publication: '*Electronics*'
 doi: 10.3390/electronics10243118
 ---

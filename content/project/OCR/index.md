@@ -1,6 +1,6 @@
 ---
 title: Transcripción semi-automática de documentos en jeroglífico egipcio
-summary: Proof-of-concept project to conceive, design and develop a digital tool set to OCR Egyptian hieroglyphs from the Pyramid Texts and Coffin Texts to provide a semi-automatical transcription of the original texts. (Spanish) Proyecto de prueba de concepto consistente en la concepción, diseño y desarrollo de un set de herramientas digitales para llevar a cabo el reconocimiento de caracteres (OCR) de jeroglíficos egipcios aplicado a los Textos de las Pirámides y de los Ataúdes del antiguo Egipto, con el objeto de conseguir una transcripción semi-automática de los textos originales.
+summary: Proof-of-concept project to conceive, design and develop a digital tool set to OCR Egyptian hieroglyphs from the Pyramid Texts and Coffin Texts to provide a semi-automatical transcription of the original texts.
 tags:
 - OCR
 - Deep Learning

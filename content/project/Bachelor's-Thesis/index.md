@@ -1,9 +1,9 @@
 ---
-title: Internal Project
+title: Bachelor's Thesis
 summary: An example of using the in-built project page.
 tags:
 - Deep Learning
-date: "2016-04-27T00:00:00Z"
+date: "2022-06-31T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -16,7 +16,7 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
+  url: https://twitter.com/
 url_code: ""
 url_pdf: ""
 url_slides: ""

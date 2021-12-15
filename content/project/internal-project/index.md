@@ -4,7 +4,7 @@ summary: Proof-of-concept project to conceive, design and develop a digital tool
 tags:
 - OCR
 - Deep Learning
-date: "2021-12-01T00:00:00Z"
+date: "2036-12-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

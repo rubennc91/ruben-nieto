@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-12-15T10:17:33.861559Z'
+publishDate: '2021-12-15T10:38:17.686482Z'
 publication_types:
 - '1'
 abstract: This paper describes the configuration of a networked control system with

@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-12-15T10:17:28.873803Z'
+publishDate: '2021-12-15T10:38:13.355767Z'
 publication_types:
 - '1'
 abstract: Power-Line Communications have spread worldwide in recent years, mainly

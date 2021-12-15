@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-12-15T10:17:49.335568Z'
+publishDate: '2021-12-15T10:38:29.394608Z'
 publication_types:
 - '1'
 abstract: Power-Line Communications (PLC) systems are becoming more and more relevant

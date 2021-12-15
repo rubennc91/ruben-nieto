@@ -18,12 +18,28 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Assistant Professor"
+  company = "Rey Juan Carlos University"
+  company_url = "www.urjc.es"
+  location = "Móstoles (Madrid) - Spain"
+  date_start = "2021-11-01"
+  date_end = "" 
+  description = """In the 2021-22 academic year I taught: """
+#  * Theory lesson of Hospital Engineering for the Bachelors Degree in Biomedical Engineering. [EN]
+#  * Theory lesson of Electrical Engineering and Electronics for the Bachelor's Degrees in Industrial Organization Engineering. [ES]
+#  * Laboratory of Electrical Engineering and Electronics for the Materials Engineering Bachelors Degree. [ES]
+#  * Laboratory of Electrical Engineering and Electronics for the Mechanical Engineering Bachelors Degree. [ES]
+#  * Laboratory of Analog Electronics for the Bachelors Degree in Industrial Electronics and Automation Engineering. [ES]
+#  * Laboratory of Fundamentals of Engineering of Electrical Engineering for the Bachelors Degree in Industrial Electronics and Automation Engineering. [ES]
+#  * Laboratory of Automatic Regulation I for the Bachelors Degree in Industrial Electronics and Automation Engineering. [ES]
+
+[[experience]]
   title = "Visiting Professor"
   company = "Rey Juan Carlos University"
   company_url = "www.urjc.es"
   location = "Móstoles (Madrid) - Spain"
   date_start = "2021-01-16"
-  date_end = "" 
+  date_end = "2021-10-31" 
   description = """In the 2020-21 academic year I taught: 
   * Theory lesson of Hospital Engineering for the Bachelors Degree in Biomedical Engineering. [EN]
   * Theory lesson of Electrical Engineering and Electronics for the Bachelor's Degrees in Industrial Organization Engineering. [ES]
@@ -31,7 +47,7 @@ date_format = "Jan 2006"
   * Laboratory of Electrical Engineering and Electronics for the Mechanical Engineering Bachelors Degree. [ES]
   * Laboratory of Analog Electronics for the Bachelors Degree in Industrial Electronics and Automation Engineering. [ES]
   * Laboratory of Fundamentals of Engineering of Electrical Engineering for the Bachelors Degree in Industrial Electronics and Automation Engineering. [ES]
-  * Laboratory of Automatic Regulation I for the Bachelors Degree in Industrial Electronics and Automation Engineering. [ES] """
+  * Laboratory of Automatic Regulation I for the Bachelors Degree in Industrial Electronics and Automation Engineering. [ES]"""
   
 # date_end = "2021-04-30"
 [[experience]]

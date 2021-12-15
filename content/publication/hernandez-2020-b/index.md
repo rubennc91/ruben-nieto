@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-12-15T10:17:55.749459Z'
+publishDate: '2021-12-15T10:38:37.260443Z'
 publication_types:
 - '1'
 abstract: In recent years the development and deployment of commercial Smart Meters

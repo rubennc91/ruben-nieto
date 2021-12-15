@@ -25,8 +25,8 @@ date_format = "Jan 2006"
   date_start = "2021-11-01"
   date_end = "" 
   description = """In the 2021-22 academic year I taught: """
-#  * Theory lesson of Hospital Engineering for the Bachelors Degree in Biomedical Engineering. [EN]
-#  * Theory lesson of Electrical Engineering and Electronics for the Bachelor's Degrees in Industrial Organization Engineering. [ES]
+	1S - Digital Electronic Systems. (Laboratory). Bachelors Degree in Industrial Electronics and Automation Engineering. [ES]
+	1S - Electrical and Electronic Engineering (Laboratory). Bachelors Degree in Chemical Engineering. [ES] """
 #  * Laboratory of Electrical Engineering and Electronics for the Materials Engineering Bachelors Degree. [ES]
 #  * Laboratory of Electrical Engineering and Electronics for the Mechanical Engineering Bachelors Degree. [ES]
 #  * Laboratory of Analog Electronics for the Bachelors Degree in Industrial Electronics and Automation Engineering. [ES]

@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-12-15T10:38:36.205402Z'
+publishDate: '2021-12-15T10:42:00.946097Z'
 publication_types:
 - '1'
 abstract: Las técnicas utilizadas para la desagregación de energía a menudo buscan

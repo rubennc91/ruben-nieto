@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-12-15T10:38:21.161498Z'
+publishDate: '2021-12-15T10:41:43.041216Z'
 publication_types:
 - '1'
 abstract: Los sistemas de posicionamiento con luz visible (VLPS) son actualmente una

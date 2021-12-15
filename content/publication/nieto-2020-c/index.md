@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-12-15T10:38:09.154704Z'
+publishDate: '2021-12-15T10:41:29.761539Z'
 publication_types:
 - '2'
 abstract: Power-Line Communication (PLC) employs multi-carrier modulations, such as

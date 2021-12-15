@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-12-15T10:38:16.676318Z'
+publishDate: '2021-12-15T10:41:37.560365Z'
 publication_types:
 - '2'
 abstract: 'El trabajo muestra las soluciones sensoriales, de comunicaciones y control,

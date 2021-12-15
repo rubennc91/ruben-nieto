@@ -2,7 +2,7 @@
 title: Hardware Architectures for Real-Time Medical Imaging
 date: '2021-12-01'
 draft: true
-publishDate: '2021-12-15T10:38:38.456656Z'
+publishDate: '2021-12-15T10:42:03.656287Z'
 authors:
 - Eduardo Alcaín
 - Pedro R. Fernández

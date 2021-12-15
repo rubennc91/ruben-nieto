@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-12-15T10:38:25.118468Z'
+publishDate: '2021-12-15T10:41:47.609528Z'
 publication_types:
 - '1'
 abstract: Power-Line Communications (PLC) often employ Wavelet Orthogonal Frequency

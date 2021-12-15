@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-12-15T10:38:24.088610Z'
+publishDate: '2021-12-15T10:41:46.631442Z'
 publication_types:
 - '1'
 abstract: Las modulaciones multiportadora usadas en las comunicaciones PLC (Power-Line

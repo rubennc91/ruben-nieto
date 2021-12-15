@@ -6,7 +6,7 @@ title: Rubén Nieto Capuchino
 superuser: true
 
 # Role/position
-role: Visiting Professor
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:

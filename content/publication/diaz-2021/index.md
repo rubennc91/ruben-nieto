@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-12-15T10:41:54.864279Z'
+publishDate: '2021-12-15T11:12:24.438797Z'
 publication_types:
 - '2'
 abstract: 'Presently, the trend is to increase the number of cores per chip. This

@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-12-15T10:41:52.449256Z'
+publishDate: '2021-12-15T11:12:22.746853Z'
 publication_types:
 - '1'
 abstract: "Smart grids are a concept that is becoming a concrete reality in developed\

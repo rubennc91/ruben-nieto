@@ -3,24 +3,24 @@ title: Bachelor's Thesis
 summary: An example of using the in-built project page.
 tags:
 - Deep Learning
-date: _"2022-06-31T00:00:00Z_"
+date: "2022-06-31T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: _"_"
+external_link: ""
 
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/
-url_code: _"_"
-url_pdf: _"_"
-url_slides: _"_"
-url_video: _"_"
+links: ""
+# - icon: twitter
+#  icon_pack: fab
+#  name: Follow
+#  url: https://twitter.com/
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

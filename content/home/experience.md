@@ -9,14 +9,14 @@ title = "Experience"
 subtitle = ""
 
 # Date format for experience
-#   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
+#  Refer to https://sourcethemes.com/academic/docs/customization/#date-format
 date_format = "Jan 2006"
 
 # Experiences.
-#   Add/remove as many `[[experience]]` blocks below as you like.
-#   Required fields are `title`, `company`, and `date_start`.
-#   Leave `date_end` empty if it's your current employer.
-#   Begin/end multi-line descriptions with 3 quotes `"""`.
+#  Add/remove as many `[[experience]]` blocks below as you like.
+#  Required fields are `title`, `company`, and `date_start`.
+#  Leave `date_end` empty if it's your current employer.
+#  Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Assistant Professor"
   company = "Rey Juan Carlos University"
@@ -27,14 +27,7 @@ date_format = "Jan 2006"
   description = """In the 2022-23 academic year I taught:
 	* Theory lesson and Laboratory of Design Of Electronic Circuits And Systems (1S). Bachelors Degree in Industrial Electronics and Automation Engineering. [ES]
 	* Theory lesson and Laboratory of Electronic Systems Design (2S). Bachelors Degree in Industrial Technologies Engineering . [ES]"""
-# In the 2021-22 academic year I taught:
-# * Laboratory of Digital Electronic Systems (1S). Bachelors Degree in Industrial Electronics and Automation Engineering. [ES]
-# * Laboratory of Electrical and Electronic Engineering (1S). Bachelors Degree in Chemical Engineering. [ES]
-# * Laboratory of Electrical Engineering and Electronics for the Materials Engineering Bachelors Degree. [ES]
-# * Laboratory of Electrical Engineering and Electronics for the Mechanical Engineering Bachelors Degree. [ES]
-# * Laboratory of Analog Electronics for the Bachelors Degree in Industrial Electronics and Automation Engineering. [ES]
-# * Laboratory of Fundamentals of Engineering of Electrical Engineering for the Bachelors Degree in Industrial Electronics and Automation Engineering. [ES]
-# * Laboratory of Automatic Regulation I for the Bachelors Degree in Industrial Electronics and Automation Engineering. [ES]
+
 
 [[experience]]
   title = "Visiting Professor"
@@ -66,13 +59,3 @@ date_format = "Jan 2006"
   description = """PhD in Electronics: Advanced Electronic Systems. Intelligent Systems. Thesis entitled: "Design of Efficient Heterogeneous Architectures for Broadband Power-Line Communications". Thesis grade: Cum-Laude."""
 
 +++
-
-
-# In the 2020-21 academic year I taught: 
-# * Theory lesson of Hospital Engineering for the Bachelors Degree in Biomedical Engineering. [EN]
-# * Theory lesson of Electrical Engineering and Electronics for the Bachelor's Degrees in Industrial Organization Engineering. [ES]
-# * Laboratory of Electrical Engineering and Electronics for the Materials Engineering Bachelors Degree. [ES]
-# * Laboratory of Electrical Engineering and Electronics for the Mechanical Engineering Bachelors Degree. [ES]
-# * Laboratory of Analog Electronics for the Bachelors Degree in Industrial Electronics and Automation Engineering. [ES]
-# * Laboratory of Fundamentals of Engineering of Electrical Engineering for the Bachelors Degree in Industrial Electronics and Automation Engineering. [ES]
-# * Laboratory of Automatic Regulation I for the Bachelors Degree in Industrial Electronics and Automation Engineering. [ES]

@@ -13,10 +13,10 @@ image:
   focal_point: Smart
 
 links: ""
-# - icon: twitter
-#  icon_pack: fab
-#  name: Follow
-#  url: https://twitter.com/
+- icon: github
+  icon_pack: fab
+  name: LaTeX Template
+  url: https://github.com/rubennc91/PhD-TFM-TFG-LatexTemplate
 url_code: ""
 url_pdf: ""
 url_slides: ""

@@ -30,14 +30,14 @@ url_video: _"_"
 slides: example
 ---
 
-Bachelor's thesis in progress:
+## Bachelor's thesis in progress:
 
 * **Diana Jiménez Guerrero**. _"Arquitectura Para Sensor Inercial IMU Mediante Zynq Integrado Con El Sistema Operativo Robótico (ROS)"_. Grado en Ingeniería de Tecnologías Industriales, Universidad Rey Juan Carlos. **In progress**.
 * **Alejandro del Campo Martín**. _"Sistema De Monitorización Basado En LoraWAN"_. Grado en Ingeniería de Tecnologías Industriales, Universidad Rey Juan Carlos. **In progress**. (_Co-dirigido_)
 * **Victor Alonso Gómez. _"To be defined"_. Grado en Ingeniería de Tecnologías Industriales, Universidad Rey Juan Carlos. **In progress**. (_Co-dirigido_)
 
 
-Directed Bachelor's Thesis:
+## Directed Bachelor's Thesis:
 
 Curso 2021-22
 * **Alicia Merchán Hernández**. _"Diseño E Implementación De Un Sistema De Empuje Angular En Un Simulador Geológico De Bajo Coste Y Hardware Libre"_. Grado en Ingeniería de Tecnologías Industriales, Universidad Rey Juan Carlos. **Curso 2021-22**. (_Co-dirigido_)

@@ -30,12 +30,25 @@ url_video: ""
 slides: example
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+Bachelor's thesis in progress:
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+	* Diana Jiménez Guerrero. "Arquitectura Para Sensor Inercial IMU Mediante Zynq Integrado Con El Sistema Operativo Robótico (ROS)". Grado en Ingeniería de Tecnologías Industriales, Universidad Rey Juan Carlos. **In progress**.
+	
+	* Alejandro del Campo Martín. "Sistema De Monitorización Basado En LoraWAN". Grado en Ingeniería de Tecnologías Industriales, Universidad Rey Juan Carlos. **In progress**. (Co-dirigido)
+	
+	* Victor Alonso Gómez. "To be defined". Grado en Ingeniería de Tecnologías Industriales, Universidad Rey Juan Carlos. **In progress**. (Co-dirigido)
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+Directed Bachelor's Thesis:
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+	* Alicia Merchán Hernández. "Diseño E Implementación De Un Sistema De Empuje Angular En Un Simulador Geológico De Bajo Coste Y Hardware Libre". Grado en Ingeniería de Tecnologías Industriales, Universidad Rey Juan Carlos. Curso 2021-22. (Co-dirigido)
+
+	* Javier Letón Camacho. "Diseño E Implementación De Un Sistema De Medida Del Desplazamiento Lineal Basado En Hardware Libre Y Componentes Recuperados Para Un Sistema De Modelado Geológico Análogo De Bajo Coste". Grado en Ingeniería de Tecnologías Industriales, Universidad Rey Juan Carlos. Curso 2021-22. (Co-dirigido)
+
+	* Marina Ruiz Ruiz. "Mejora en el Sistema de Producción de Inyectores Médicos con el Desarrollo de una Máquina Portátil para el Control del Fluido de Alcohol HFE al 8% de Silicona". Grado en Ingeniería en Organización Industrial, Universidad Rey Juan Carlos. Curso 2021-22.
+
+	* Lucía Elvira Boillos. "Análisis Del Entorno Y Estudio De La Viabilidad Económica De Un Sistema Para La Monitorización De La Calidad Del Aire". Grado en Ingeniería en Organización Industrial, Universidad Rey Juan Carlos. Curso 2021-22. (Co-dirigido)
+	
+	* Marta Encinar Lozano. "Implementación De Un Monitor IoT De Calidad Del Aire Para Espacios Interiores". Grado en Ingeniería en Organización Industrial, Universidad Rey Juan Carlos. Curso 2021-22.
+	
+	* Victor Manuel Navarro Pérez. "Sistema Portátil De Reconocimiento De Texto Para La Asistencia De Personas Ciegas O Con Dificultad En La Visión". Grado en Ingeniería de Tecnologías Industriales, Universidad Rey Juan Carlos. Curso 2020-21. (Co-dirigido)

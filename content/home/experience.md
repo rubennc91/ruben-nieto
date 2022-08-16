@@ -25,8 +25,9 @@ date_format = "Jan 2006"
   date_start = "2021-11-01"
   date_end = "" 
   description = """In the 2022-23 academic year I taught:
-	* Theory lesson and Laboratory of Design Of Electronic Circuits And Systems (1S). Bachelors Degree in Industrial Electronics and Automation Engineering. [ES]
-	* Theory lesson and Laboratory of Electronic Systems Design (2S). Bachelors Degree in Industrial Technologies Engineering . [ES]"""
+  
+  * Theory lesson and Laboratory of Design Of Electronic Circuits And Systems (1S). Bachelors Degree in Industrial Electronics and Automation Engineering. [ES]
+  * Theory lesson and Laboratory of Electronic Systems Design (2S). Bachelors Degree in Industrial Technologies Engineering . [ES]"""
 
 
 [[experience]]

@@ -1,0 +1,8 @@
+#   In the 2021-22 academic year I taught:
+#   * Laboratory of Digital Electronic Systems (1S). Bachelors Degree in Industrial Electronics and Automation Engineering. [ES]
+#   * Laboratory of Electrical and Electronic Engineering (1S). Bachelors Degree in Chemical Engineering. [ES]
+#   * Laboratory of Electrical Engineering and Electronics for the Materials Engineering Bachelors Degree. [ES]
+#   * Laboratory of Electrical Engineering and Electronics for the Mechanical Engineering Bachelors Degree. [ES]
+#   * Laboratory of Analog Electronics for the Bachelors Degree in Industrial Electronics and Automation Engineering. [ES]
+#   * Laboratory of Fundamentals of Engineering of Electrical Engineering for the Bachelors Degree in Industrial Electronics and Automation Engineering. [ES]
+#   * Laboratory of Automatic Regulation I for the Bachelors Degree in Industrial Electronics and Automation Engineering. [ES]

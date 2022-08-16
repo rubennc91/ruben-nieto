@@ -6,7 +6,7 @@ title: Rubén Nieto Capuchino
 superuser: true
 
 # Role/position
-role: Assistant Professor
+role: Visiting Professor
 
 # Organizations/Affiliations
 organizations:
@@ -44,9 +44,6 @@ interests:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: university
-  icon_pack: fas
-  link: https://gestion2.urjc.es/pdi/ver/ruben.nieto
 - icon: envelope
   icon_pack: fas
   link: '/#contact'  # For a direct email link, use "mailto:ruben.nieto@urjc.es".

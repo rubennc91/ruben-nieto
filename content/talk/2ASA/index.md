@@ -21,7 +21,7 @@ date_end: "2022-07-18T00:00:00Z"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2022-01-01T00:00:00Z"
+publishDate: "2031-03-01T00:00:00Z"
 
 authors: [Rubén Nieto]
 tags: [Microcontroller and microprocessors]

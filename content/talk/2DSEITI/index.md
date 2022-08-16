@@ -1,5 +1,5 @@
 ---
-title: "2S - Electronic Systems Design (Theory and Laboratory)."
+title: "2S - Electronic Systems Design."
 event: Academic Theme Conference
 event_url: 
 
@@ -16,12 +16,12 @@ abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2022-01-15T00:00:00Z"
-date_end: "2022-07-18T00:00:00Z"
+date: "2022-09-01T00:00:00Z"
+date_end: "2023-08-30T00:00:00Z"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2022-01-01T00:00:00Z"
+publishDate: "2022-08-01T00:00:00Z"
 
 authors: [Rubén Nieto]
 tags: [Microcontroller and microprocessors]

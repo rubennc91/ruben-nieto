@@ -21,7 +21,7 @@ date_end: "2021-12-18T00:00:00Z"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2021-09-01T00:00:00Z"
+publishDate: "2031-03-01T00:00:00Z"
 
 authors: [Rubén Nieto]
 tags: [Basic Electronics]

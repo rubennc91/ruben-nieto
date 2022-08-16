@@ -14,10 +14,10 @@ image:
   focal_point: Smart
 
 links: 
- - icon: twitter
+ - icon: website
    icon_pack: fab
-   name: Follow
-   url: https://twitter.com/
+   name: More info.
+   url: https://www.mortexvar.com/about-1
 url_code: ""
 url_pdf: ""
 url_slides: ""

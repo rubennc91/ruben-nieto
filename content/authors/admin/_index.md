@@ -6,7 +6,7 @@ title: Rubén Nieto Capuchino
 superuser: true
 
 # Role/position
-role: Visiting Professor
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
@@ -14,19 +14,19 @@ organizations:
   url: "https://www.urjc.es"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include robotics, cloud computing, FPGAs, System-on-Chip, among others.
 
 education:
   courses:
   - course: Ph.D. in Electronics. Advanced Electronic Systems. Intelligent Systems
     institution: University of Alcala
     year: 2020
-  - course: M.Sc. in Telecommunication Engineering
-    institution: University of Alcala
-    year: 2016
-  - course: B.Sc. in Telecommunication Technologies Engineering
-    institution: University of Alcala
-    year: 2015
+#  - course: M.Sc. in Telecommunication Engineering
+#    institution: University of Alcala
+#    year: 2016
+#  - course: B.Sc. in Telecommunication Technologies Engineering
+#    institution: University of Alcala
+#    year: 2015
 
 interests:
 - System-on-Chip
@@ -44,6 +44,9 @@ interests:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+- icon: university
+  icon_pack: fas
+  link: https://gestion2.urjc.es/pdi/ver/ruben.nieto
 - icon: envelope
   icon_pack: fas
   link: '/#contact'  # For a direct email link, use "mailto:ruben.nieto@urjc.es".
@@ -74,7 +77,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Rubén Nieto is a Visiting Professor in the Department of Applied Mathematics, Materials Science and Engineering and Electronic Technology at Rey Juan Carlos University. He is involved in teaching of Hospital Engineering, Electrical and Electronic Engineering, Automatic Control I and Analog Electronics and his main research interests include robotics, cloud computing, FPGAs, System-on-Chip, among others.
+Rubén Nieto is a Assistant Professor in the Department of Applied Mathematics, Materials Science and Engineering and Electronic Technology at Rey Juan Carlos University. He is involved in teaching of Electronic Systems Design and Design Of Electronic Circuits And Systems and his main research interests include robotics, cloud computing, FPGAs, System-on-Chip, among others.
 
 He received his formation at the University of Alcalá, where he obtained a Bachelor's degree, a Master's degree and his Doctor of Philosophy (PhD) in Electronics: Advanced Electronic Systems and Intelligent Systems. After obtaining his PhD, he was a postdoctoral researcher at the same University. 
 

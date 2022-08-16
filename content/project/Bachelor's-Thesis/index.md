@@ -12,7 +12,7 @@ image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
-links: ""
+links:
 - icon: github
   icon_pack: fab
   name: LaTeX Template

@@ -14,7 +14,7 @@ image:
   focal_point: Smart
 
 links: 
- - icon: ankh
+ - icon: browser
    icon_pack: fab
    name: More info.
    url: https://www.mortexvar.com/about-1

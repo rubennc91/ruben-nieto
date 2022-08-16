@@ -13,10 +13,10 @@ image:
   focal_point: Smart
 
 links:
-- icon: twitter
+- icon: github
   icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+  name: LaTeX Template
+  url: https://github.com/rubennc91/PhD-TFM-TFG-LatexTemplate
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -28,4 +28,13 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: example
+
 ---
+
+## Master's thesis in progress:
+
+* **Alexis Andres Vidaurre Celis**. _"Implementación de Redes Neuronales en FPGA para el Desarrollo de Técnicas NILM"_. Master Universitario en Ingeniería Industrial, Universidad Rey Juan Carlos. **In progress**.
+* **Adrian Zeus Roman Garcia**. _"To be defined"_. Master Universitario en Ingeniería Industrial, Universidad Rey Juan Carlos. **In progress**.
+
+## Directed Master's Thesis:
+* **Laura de Diego Otón**. _"Designing Artificial Neural Networks (ANNs) for Electrical Appliance Classification in Smart Energy Distribution Systems"_. Master Universitario en Ingeniería Industrial, Universidad de Alcalá. 2022. (_Co-dirigido_)

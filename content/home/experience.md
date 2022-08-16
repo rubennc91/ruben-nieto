@@ -24,19 +24,17 @@ date_format = "Jan 2006"
   location = "Móstoles (Madrid) - Spain"
   date_start = "2021-11-01"
   date_end = "" 
-  description = """
-  In the 2022-23 academic year I taught:
+  description = """In the 2022-23 academic year I taught:
 	* Theory lesson and Laboratory of Design Of Electronic Circuits And Systems (1S). Bachelors Degree in Industrial Electronics and Automation Engineering. [ES]
-	* Theory lesson and Laboratory of Electronic Systems Design (2S). Bachelors Degree in Industrial Technologies Engineering . [ES]
-  # In the 2021-22 academic year I taught:
-  #   * Laboratory of Digital Electronic Systems (1S). Bachelors Degree in Industrial Electronics and Automation Engineering. [ES]
-  #  * Laboratory of Electrical and Electronic Engineering (1S). Bachelors Degree in Chemical Engineering. [ES]
-  #  * Laboratory of Electrical Engineering and Electronics for the Materials Engineering Bachelors Degree. [ES]
-  #  * Laboratory of Electrical Engineering and Electronics for the Mechanical Engineering Bachelors Degree. [ES]
-  #  * Laboratory of Analog Electronics for the Bachelors Degree in Industrial Electronics and Automation Engineering. [ES]
-  #   * Laboratory of Fundamentals of Engineering of Electrical Engineering for the Bachelors Degree in Industrial Electronics and Automation Engineering. [ES]
-  #  * Laboratory of Automatic Regulation I for the Bachelors Degree in Industrial Electronics and Automation Engineering. [ES]
-  """
+	* Theory lesson and Laboratory of Electronic Systems Design (2S). Bachelors Degree in Industrial Technologies Engineering . [ES]"""
+# In the 2021-22 academic year I taught:
+# * Laboratory of Digital Electronic Systems (1S). Bachelors Degree in Industrial Electronics and Automation Engineering. [ES]
+# * Laboratory of Electrical and Electronic Engineering (1S). Bachelors Degree in Chemical Engineering. [ES]
+# * Laboratory of Electrical Engineering and Electronics for the Materials Engineering Bachelors Degree. [ES]
+# * Laboratory of Electrical Engineering and Electronics for the Mechanical Engineering Bachelors Degree. [ES]
+# * Laboratory of Analog Electronics for the Bachelors Degree in Industrial Electronics and Automation Engineering. [ES]
+# * Laboratory of Fundamentals of Engineering of Electrical Engineering for the Bachelors Degree in Industrial Electronics and Automation Engineering. [ES]
+# * Laboratory of Automatic Regulation I for the Bachelors Degree in Industrial Electronics and Automation Engineering. [ES]
 
 [[experience]]
   title = "Visiting Professor"
@@ -45,16 +43,7 @@ date_format = "Jan 2006"
   location = "Móstoles (Madrid) - Spain"
   date_start = "2021-01-16"
   date_end = "2021-10-31" 
-  description = """
-  # In the 2020-21 academic year I taught: 
-  #* Theory lesson of Hospital Engineering for the Bachelors Degree in Biomedical Engineering. [EN]
-  #* Theory lesson of Electrical Engineering and Electronics for the Bachelor's Degrees in Industrial Organization Engineering. [ES]
-  #* Laboratory of Electrical Engineering and Electronics for the Materials Engineering Bachelors Degree. [ES]
-  #* Laboratory of Electrical Engineering and Electronics for the Mechanical Engineering Bachelors Degree. [ES]
-  #* Laboratory of Analog Electronics for the Bachelors Degree in Industrial Electronics and Automation Engineering. [ES]
-  #* Laboratory of Fundamentals of Engineering of Electrical Engineering for the Bachelors Degree in Industrial Electronics and Automation Engineering. [ES]
-  # * Laboratory of Automatic Regulation I for the Bachelors Degree in Industrial Electronics and Automation Engineering. [ES]
-  """
+  description = """ """
   
 # date_end = "2021-04-30"
 [[experience]]
@@ -77,3 +66,13 @@ date_format = "Jan 2006"
   description = """PhD in Electronics: Advanced Electronic Systems. Intelligent Systems. Thesis entitled: "Design of Efficient Heterogeneous Architectures for Broadband Power-Line Communications". Thesis grade: Cum-Laude."""
 
 +++
+
+
+# In the 2020-21 academic year I taught: 
+# * Theory lesson of Hospital Engineering for the Bachelors Degree in Biomedical Engineering. [EN]
+# * Theory lesson of Electrical Engineering and Electronics for the Bachelor's Degrees in Industrial Organization Engineering. [ES]
+# * Laboratory of Electrical Engineering and Electronics for the Materials Engineering Bachelors Degree. [ES]
+# * Laboratory of Electrical Engineering and Electronics for the Mechanical Engineering Bachelors Degree. [ES]
+# * Laboratory of Analog Electronics for the Bachelors Degree in Industrial Electronics and Automation Engineering. [ES]
+# * Laboratory of Fundamentals of Engineering of Electrical Engineering for the Bachelors Degree in Industrial Electronics and Automation Engineering. [ES]
+# * Laboratory of Automatic Regulation I for the Bachelors Degree in Industrial Electronics and Automation Engineering. [ES]

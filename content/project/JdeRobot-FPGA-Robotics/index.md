@@ -21,17 +21,17 @@ links:
   icon_pack: fab
   name: Repository
   url: https://github.com/JdeRobot/FPGA-robotics
+- icon: browser
+  icon_pack: fab
+  name: Website
+  url: https://jderobot.github.io/
+- icon: youtube
+  icon_pack: fab
+  name: YouTube
+  url: https://www.youtube.com/channel/UCgmUgpircYAv_QhLQziHJOQ/featured
 url_code: ""
 url_pdf: ""
-#- icon: browser
-#  icon_pack: fab
-#  name: Website
-#  url: https://jderobot.github.io/
 url_slides: ""
-#- icon: youtube
-#  icon_pack: fab
-#  name: YouTube
-#  url: https://www.youtube.com/channel/UCgmUgpircYAv_QhLQziHJOQ/featured
 url_video: ""
 
 # Slides (optional).

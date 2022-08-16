@@ -43,6 +43,5 @@ slides: example
 ---
 
 Reconfigurable Computing in Robotics.
-
-	* Visual Circuit Tool: Tool for programming robot behaviors using a digital electronics language and abstractions.
-	* Neural FPGA: Custom hardware able to do inference over generic neural networks using only open source tools.
+	- Visual Circuit Tool: Tool for programming robot behaviors using a digital electronics language and abstractions.
+	- Neural FPGA: Custom hardware able to do inference over generic neural networks using only open source tools.

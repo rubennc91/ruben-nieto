@@ -6,7 +6,7 @@ tags:
 - Deep Learning
 - EMG
 - IMU
-date: "2022-09-01T00:00:00Z"
+date: "2022-08-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

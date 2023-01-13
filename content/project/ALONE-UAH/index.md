@@ -38,17 +38,17 @@ The aging of population in recent years has become a key aspect in the definitio
 
 The main contribution of the project is the definition, design and development of a comprehensive system capable of using the power consumption from a home to non-intrusively monitor the daily activity of tenants, and use that information to digitize care at home, as well as to foster independent living of elderly, with a certain degree of dependency, and/or cognitive disorders, in rural areas with low population density. Based on a single, minimally invasive, electrical consumption measurement point, NILM techniques and intelligent systems will be applied to determine the electrical appliances active at any time. Not only high-power devices will be detected, but also those with lower consumption, whose detection is not solved in the current state of the art, and which are equally relevant for the subsequent identification of behavioural routines. From there, we will proceed: on the one hand, to the detection of anomalies in the short term; and, on the other hand, to the long-term monitoring of the performance of certain activities of daily life, as well as their evaluation, so that tools can be provided for the digitization of home care. The system will be based on an MPSoC architecture in an FPGA device that, locally (edge computing), will implement all the previously described algorithms in real time. Only the final results from the identification of household appliances and the recognition of activities will be sent to the cloud for further analysis. This minimizes the communication requirements of the local system, a key factor in rural areas with coverage restrictions. 
 
-#Participants
-##GEINTRA group, University of Alcalá
--Dr. Álvaro Hernández
--Dr. José M. Villadangos
--Dr. María Carmen Pérez
--Dr. Jesús Ureña
--Dr. Daniel Pizarro
--Dr. Rubén Nieto (Rey Juan Carlos University)
-##Collaborators
--Dr. Antonio Ruano, University of Algarve, Portugal
--Laura de Diego, University of Alcalá
+# Participants
+## GEINTRA group, University of Alcalá
+* Dr. Álvaro Hernández
+* Dr. José M. Villadangos
+* Dr. María Carmen Pérez
+* Dr. Jesús Ureña
+* Dr. Daniel Pizarro
+* Dr. Rubén Nieto (Rey Juan Carlos University)
+## Collaborators
+* Dr. Antonio Ruano, University of Algarve, Portugal
+* Laura de Diego, University of Alcalá
 
-#Contact:
+# Contact:
 Álvaro Hernández (University of Alcalá)

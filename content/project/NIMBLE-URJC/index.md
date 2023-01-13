@@ -1,6 +1,6 @@
 ---
 title: NIMBLE
-summary: To Complete.
+summary: Sistemas robóticos y de detección que implementan terapias asistidas por robots para la rehabilitación de la marcha, basadas en paradigmas de aprendizaje por esfuerzo.
 tags:
 - Exoskeleton
 - Deep Learning
@@ -32,7 +32,28 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
+# Welcome to NIMBLE Project
+Proyecto Financiado por la Unión Europea a través del Fondo Europeo de Desarrollo Regional (FEDER), durante el período 2021-2027.
 
-[EN] Deatils of the project.
+Fecha inicio: 01/09/2022
+Fecha fin:31/08/2025
 
-[ES] Detalles del proyecto.
+## Participants
+### Rey Juan Carlos University
+* Susana Borromeo López (Co-IP)
+* Antonio José del Ama Espinosa (Co-IP)
+* Pedro Rafael Fernández Barbosa
+* Juan Alejandro Castaño Peña
+* Rubén Nieto Capuchino
+* Valentín Martínez Martín
+
+### CSIC-SESCAM
+* Juan C. Moreno
+* Pilar Raya
+* Noemi Lois
+* Ángel Gil
+* Diana Herrera
+
+### UPC
+* Josep M. Font
+* Filippo Maceratesi

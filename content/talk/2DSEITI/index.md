@@ -11,7 +11,7 @@ address:
   postcode: '28933'
   country: Spain
 
-summary: Bachelors Degree in Chemical Engineering.
+summary: Bachelors Degree in Industrial Technology Engineering.
 abstract: ""
 
 # Talk start and end times.

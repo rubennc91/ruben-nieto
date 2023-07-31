@@ -18,13 +18,13 @@ subtitle = ""
   icon = "microchip"
   icon_pack = "fas"
   name = "SoC, FPGA and Embedded systems"
-  description = "85 %" 
+  description = "90 %" 
   
 [[feature]]
   icon = "calculator"
   icon_pack = "fas"
   name = "Matlab"
-  description = "95 %"
+  description = "85 %"
     
 [[feature]]
   icon = "python"
@@ -36,19 +36,19 @@ subtitle = ""
   icon = "git"
   icon_pack = "fab"
   name = "Git, GitHub and GitLab"
-  description = "85 %" 
+description = "90 %" 
   
 [[feature]]
   icon = "brain"
   icon_pack = "fas"
   name = "Deep Learning"
-  description = "45 %" 
+  description = "65 %" 
   
 [[feature]]
   icon = "chalkboard-teacher"
   icon_pack = "fas"
   name = "Teaching"
-  description = "15 %" 
+  description = "65 %" 
   
 [[feature]]
   icon = "robot"
@@ -84,7 +84,7 @@ subtitle = ""
   icon = "utensils"
   icon_pack = "fas"
   name = "Beginner cook"
-  description = "20 %"
+  description = "80 %"
 
   
 # Uncomment to use emoji icons.

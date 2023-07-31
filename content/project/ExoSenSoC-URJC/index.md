@@ -1,25 +1,24 @@
 ---
-title: Guide2FR Project
-summary: Plataforma de investigación para ofrecer servicios de prevención, seguridad y evacuación en espacios interiores confinados. Proyecto Financiado por la Unión Europea (NextGenerationEU) Plan de Recuperación, Transformación y Resiliencia (PRTR).
+title: ExoSen-SoC Project
+summary: Procesado sensorial basado en EMG para la evaluación del control con exoesqueletos mediante una arquitectura heterogénea basada en System on Chip. Proyecto Financiado por la Universidad Rey Juan Carlos.
 tags:
-- Mechanical and electronics Modelling 
-- Acquisition and location modelling  
-- Navigation modelling
-- Computational design
+- System-on-Chip
+- EMG adquisition
+- Real-Time Processing
 date: "2023-01-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: Photo by Guide2FR Project
+  caption: Photo by ExoSen-SoC Project
   focal_point: Smart
 
 links: 
  - icon: browser
    icon_pack: fab
-   name: GUIDE2FR Project
-   url: https://twitter.com/cristinaurjc?lang=es
+   name: More info.
+   url: https://gestion2.urjc.es/pdi/ver/ruben.nieto
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -32,7 +31,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-# Welcome to GUIDE2FR project
+# Welcome to ExoSen-SoC project
 
 The exoskeletons developed provide assistance to the patient's lower extremities and are used in gait rehabilitation with elderly patients or people with spinal cord or neurodegenerative injuries. However, gait is a coordinated movement of the lower extremities, where the exoskeleton can feel like an obstacle in the rehabilitation process. To avoid this, it is necessary to monitor the patient's movement intention through the muscle signals of the lower extremities, in order to improve patient-robot interoperability.
 

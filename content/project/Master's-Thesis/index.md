@@ -33,8 +33,10 @@ slides: example
 
 ## Master's thesis in progress:
 
-* **Alexis Andres Vidaurre Celis**. _"Implementación de Redes Neuronales en FPGA para el Desarrollo de Técnicas NILM"_. Master Universitario en Ingeniería Industrial, Universidad Rey Juan Carlos. **In progress**.
-* **Adrian Zeus Roman Garcia**. _"To be defined"_. Master Universitario en Ingeniería Industrial, Universidad Rey Juan Carlos. **In progress**.
+* **Victor Manuel Navarro Pérez**. _"To be defined"_. Master Universitario en Ingeniería Industrial, Universidad Rey Juan Carlos. **In progress**.
+* **Joaquín Ramos García**. _"To be defined"_. Master Universitario en Ingeniería Industrial, Universidad Rey Juan Carlos. **In progress**.
 
 ## Directed Master's Thesis:
 * **Laura de Diego Otón**. _"Designing Artificial Neural Networks (ANNs) for Electrical Appliance Classification in Smart Energy Distribution Systems"_. Master Universitario en Ingeniería Industrial, Universidad de Alcalá. 2022. (_Co-dirigido_)
+* **Alexis Andres Vidaurre Celis**. _"Implementación de Redes Neuronales Artificales en Dispositivos basados en FPGA para la Clasificación de Cargas Eléctricas"_. Master Universitario en Ingeniería Industrial, Universidad Rey Juan Carlos. 2023. (_Co-dirigido_)
+* **Adrian Zeus Roman Garcia**. _"Gemelo Digital en el Campus de Móstoles de la Urjc: Monitorización 3D Geolocalizada y Actuación Wireless en las Aulas"_. Master Universitario en Ingeniería Industrial, Universidad Rey Juan Carlos. **In progress**. 2023. (_Co-dirigido_)

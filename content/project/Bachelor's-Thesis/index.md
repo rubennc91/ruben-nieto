@@ -31,13 +31,19 @@ slides: example
 ---
 
 ## Bachelor's thesis in progress:
-
-* **Diana Jiménez Guerrero**. _"Arquitectura Para Sensor Inercial IMU Mediante Zynq Integrado Con El Sistema Operativo Robótico (ROS)"_. Grado en Ingeniería de Tecnologías Industriales, Universidad Rey Juan Carlos. **In progress**.
-* **Alejandro del Campo Martín**. _"Sistema De Monitorización Basado En LoraWAN"_. Grado en Ingeniería de Tecnologías Industriales, Universidad Rey Juan Carlos. **In progress**. (_Co-dirigido_)
-* **Victor Alonso Gómez**. _"To be defined"_. Grado en Ingeniería de Tecnologías Industriales, Universidad Rey Juan Carlos. **In progress**. (_Co-dirigido_)
-
+* **Victor Alonso Gómez**. _"To be defined"_. Grado en Ingeniería de Tecnologías Industriales, Universidad Rey Juan Carlos. **In progress**.
+* **Marta Garabal García**. _"To be defined"_. Grado en Ingeniería de Tecnologías Industriales, Universidad Rey Juan Carlos. **In progress**. (_Co-dirigido_)
+* **Alfonso Blas Garrido Yagüe**. _"Diseño y Fabricación de PCB para la Adquisición y Acondicionamiento de Señales EMG basado en Sensor ADS129x y Dispositivo de Lógica Programable"_. Grado en Ingeniería de Electrónica Industrial y Automática, Universidad Rey Juan Carlos. **In progress**. 
+* **Alejandro López de Peso**. _"Implementación de los Algoritmos de Procesamiento de Señales EMG mediante Herramientas de Síntesis de Alto Nivel (HLS)"_. Grado en Ingeniería de Electrónica Industrial y Automática, Universidad Rey Juan Carlos. **In progress**.
+* **Álvaro Sanz Canet**. _"To be defined"_. Grado en Ingeniería de Tecnologías Industriales, Universidad Rey Juan Carlos. **In progress**.
 
 ## Directed Bachelor's Thesis:
+
+### Curso 2023-24
+
+### Curso 2022-23
+* **Diana Jiménez Guerrero**. _"Arquitectura HW/SW Basada en Zynq y ROS para una IMU"_. Grado en Ingeniería de Tecnologías Industriales, Universidad Rey Juan Carlos. **2023**.
+* **Alejandro del Campo Martín**. _"Sistema De Monitorización Basado En LoraWAN"_. Grado en Ingeniería de Tecnologías Industriales, Universidad Rey Juan Carlos. **2023**. (_Co-dirigido_)
 
 ### Curso 2021-22
 * **Alicia Merchán Hernández**. _"Diseño E Implementación De Un Sistema De Empuje Angular En Un Simulador Geológico De Bajo Coste Y Hardware Libre"_. Grado en Ingeniería de Tecnologías Industriales, Universidad Rey Juan Carlos. **2022**. (_Co-dirigido_)

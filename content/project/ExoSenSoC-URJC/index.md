@@ -15,6 +15,10 @@ image:
   focal_point: Smart
 
 links: ""
+# - icon: browser
+#   icon_pack: fab
+#   name: ExoSen-SoC Project
+#   url: https://twitter.com/cristinaurjc?lang=es
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -29,24 +33,24 @@ slides: example
 ---
 # Welcome to GUIDE2FR project
 
-These teams will be able to navigate autonomously and collect relevant information of the intervention in a distributed format from the environments, wearable devices for persons to be rescued and wearable textile systems for rescue workers and firemen.
+The exoskeletons developed provide assistance to the patient's lower extremities and are used in gait rehabilitation with elderly patients or people with spinal cord or neurodegenerative injuries. However, gait is a coordinated movement of the lower extremities, where the exoskeleton can feel like an obstacle in the rehabilitation process. To avoid this, it is necessary to monitor the patient's movement intention through the muscle signals of the lower extremities, in order to improve patient-robot interoperability.
 
-The tests will be hosted at the IBATECH -an external collaborator that will provide technical advice on the chemical simulants and portable detectors-, SEQUOPRO (distributor of chemical sensors), DeepInsight (distributor of wireless communication modules), Getronics and Alai Secure (security and IoT companies), Aurea Avionics, and 112 facilities at Madrid (see letters of expression of interest).
+In order to know and monitor the patient's physiological information, the signals coming from EMG sensors distributed by the lower extremities will be taken into account, achieving a real-time processing of them. In order to support the high computational load involved, FPGA hardware architectures will be developed, which provide design flexibility and a significant degree of parallelism. Some SoC devices integrate one or more processors together with the FPGA, so that by combining both parts it is possible to elaborate heterogeneous or mixed HW/SW architectures. Such architecture should be as modular as possible to adapt to the number of signals to be processed, as well as to provide the information to the control of the exoskeletons.
 
-In contrast to the lack of current supervision platforms in real time for inside building in hostile environments, the GUIDE2FR is proposed as a tool to solve the current shortcomings of the Emergency Response Teams (ERTs), simplifying the interaction with the Advanced Command Post (ACP), while providing information about the intervention based on the work of UAV teams.F urthermore, the real time decision making is very important, to be able to avoid human failures in order to reduce the number of accidents and risks.
-
+Therefore, this project aims to design efficient architectures based on SoC for the use of EMG sensors that contribute to improve the control of exoskeletons for lower limb rehabilitation.
 
 ## Participants
-* Dra. María Cristina Rodríguez Sánchez (Rey Juan Carlos University)
-* Dr. Micael Gallego Carrillo (Rey Juan Carlos University)
+* Dr. Rubén Nieto Capuchino (Rey Juan Carlos University)
+* Dr. Antonio José del Ama Espinosa (Rey Juan Carlos University)
 * Dra. Susana Borromeo López (Rey Juan Carlos University)
 * Dr. Pedro Rafael Fernández Barbosa (Rey Juan Carlos University)
-* Dr. Rubén Nieto (Rey Juan Carlos University)
-* Dr. José Luis Lázaro Galilea (University of Alcalá)
-* Dr. Álvaro de la Llana Calvo (University of Alcalá)
-* Dr. Juan Jesús Roldán Gómez (Autonomous University of Madrid)
-* Dr. Jose Javier Garrido Salas (Autonomous University of Madrid)
-* Dr. Fernando Jesus Lopez Colino (Autonomous University of Madrid)
+* Dr. Julio Salvador Lora Millán (Rey Juan Carlos University)
+* Dr. Juan Alejandro Castaño Peña (Rey Juan Carlos University)
+* Dr. Maria del Carmen Perez Rubio (University of Alcalá)
+* Dr. Ana Jimenez Martin (University of Alcalá)
+* Dr. Álvaro Hernandez Alonso (University of Alcalá)
+* Dr. Juan Jesus García Domínguez (University of Alcalá)
+* Dr. Felipe Machado Sánchez (Las Palmas de Gran Canaria University)
 
 #### Contact:
- María Cristina Rodríguez Sánchez and Micael Gallego Carrillo (Rey Juan Carlos University)
+ Rubén Nieto Capuchino (Rey Juan Carlos University)

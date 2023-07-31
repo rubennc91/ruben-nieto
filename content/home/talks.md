@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 27  # Order that this section will appear.
 
-title = "2023-2024 Classes"
+title = "2022-2023 Classes"
 subtitle = ""
 
 [content]

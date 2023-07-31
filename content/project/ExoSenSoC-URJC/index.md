@@ -15,10 +15,6 @@ image:
   focal_point: Smart
 
 links: ""
-# - icon: browser
-#   icon_pack: fab
-#   name: ExoSen-SoC Project
-#   url: https://twitter.com/cristinaurjc?lang=es
 url_code: ""
 url_pdf: ""
 url_slides: ""

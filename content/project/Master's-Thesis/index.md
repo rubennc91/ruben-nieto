@@ -38,6 +38,6 @@ slides: example
 
 ## Directed Master's Thesis:
 * **Alexis Andres Vidaurre Celis**. _"Implementación de Redes Neuronales Artificales en Dispositivos basados en FPGA para la Clasificación de Cargas Eléctricas"_. Master Universitario en Ingeniería Industrial, Universidad Rey Juan Carlos. **2023**. (_Co-dirigido_)
-* **Adrian Zeus Roman Garcia**. _"Gemelo Digital en el Campus de Móstoles de la Urjc: Monitorización 3D Geolocalizada y Actuación Wireless en las Aulas"_. Master Universitario en Ingeniería Industrial, Universidad Rey Juan Carlos. **In progress**. **2023**. (_Co-dirigido_)
+* **Adrian Zeus Roman Garcia**. _"Gemelo Digital en el Campus de Móstoles de la Urjc: Monitorización 3D Geolocalizada y Actuación Wireless en las Aulas"_. Master Universitario en Ingeniería Industrial, Universidad Rey Juan Carlos. **2023**. (_Co-dirigido_)
 * **Laura de Diego Otón**. _"Designing Artificial Neural Networks (ANNs) for Electrical Appliance Classification in Smart Energy Distribution Systems"_. Master Universitario en Ingeniería Industrial, Universidad de Alcalá. **2022**. (_Co-dirigido_)
 

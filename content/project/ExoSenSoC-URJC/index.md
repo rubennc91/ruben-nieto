@@ -1,20 +1,25 @@
 ---
-title: ExoSen-SoC Project
-summary: Procesado sensorial basado en EMG para la evaluación del control con exoesqueletos mediante una arquitectura heterogénea basada en System on Chip. Proyecto Financiado por la Universidad Rey Juan Carlos.
+title: Guide2FR Project
+summary: Plataforma de investigación para ofrecer servicios de prevención, seguridad y evacuación en espacios interiores confinados. Proyecto Financiado por la Unión Europea (NextGenerationEU) Plan de Recuperación, Transformación y Resiliencia (PRTR).
 tags:
-- System-on-Chip
-- EMG adquisition
-- Real-Time Processing
+- Mechanical and electronics Modelling 
+- Acquisition and location modelling  
+- Navigation modelling
+- Computational design
 date: "2023-01-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: Photo by ExoSen-SoC Project
+  caption: Photo by Guide2FR Project
   focal_point: Smart
 
-links: ""
+links: 
+ - icon: browser
+   icon_pack: fab
+   name: GUIDE2FR Project
+   url: https://twitter.com/cristinaurjc?lang=es
 url_code: ""
 url_pdf: ""
 url_slides: ""
